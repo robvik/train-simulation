@@ -1,0 +1,867 @@
+00:42 Train [50] (ASSEMBLED) from Dunedin 01:12 (01:12) to GrandCentral 02:05 (02:05) is now assembled. 
+00:44 Train [17] (ASSEMBLED) from Liege-Guillemins 01:14 (01:14) to GrandCentral 02:37 (02:37) is now assembled. 
+00:44 Train [115] (ASSEMBLED) from Hauptbahnhof 01:14 (01:14) to GrandCentral 02:17 (02:17) is now assembled. 
+00:46 Train [1] (ASSEMBLED) from GrandCentral 01:16 (01:16) to Liege-Guillemins 02:46 (02:46) is now assembled. 
+00:46 Train [34] (ASSEMBLED) from ST.Pancras 01:16 (01:16) to GrandCentral 02:30 (02:30) is now assembled. 
+00:47 Train [99] (ASSEMBLED) from Shinjuku 01:17 (01:17) to GrandCentral 01:57 (01:57) is now assembled. 
+00:51 Train [67] (ASSEMBLED) from MilanoCentrale 01:21 (01:21) to GrandCentral 01:48 (01:48) is now assembled. 
+01:00 Train [83] (ASSEMBLED) from Luz 01:30 (01:30) to GrandCentral 02:56 (02:56) is now assembled. 
+01:02 Train [50] (READY) from Dunedin 01:12 (01:12) to GrandCentral 02:05 (02:05) is ready for departure. 
+01:04 Train [17] (READY) from Liege-Guillemins 01:14 (01:14) to GrandCentral 02:37 (02:37) is ready for departure. 
+01:04 Train [115] (READY) from Hauptbahnhof 01:14 (01:14) to GrandCentral 02:17 (02:17) is ready for departure. 
+01:06 Train [1] (READY) from GrandCentral 01:16 (01:16) to Liege-Guillemins 02:46 (02:46) is ready for departure. 
+01:06 Train [34] (READY) from ST.Pancras 01:16 (01:16) to GrandCentral 02:30 (02:30) is ready for departure. 
+01:07 Train [99] (READY) from Shinjuku 01:17 (01:17) to GrandCentral 01:57 (01:57) is ready for departure. 
+01:11 Train [67] (READY) from MilanoCentrale 01:21 (01:21) to GrandCentral 01:48 (01:48) is ready for departure. 
+01:12 Train [50] (RUNNING) from Dunedin 01:12 (01:12) to GrandCentral 02:05 (02:05) started on time.
+01:14 Train [17] (RUNNING) from Liege-Guillemins 01:14 (01:14) to GrandCentral 02:37 (02:37) started on time.
+01:14 Train [115] (RUNNING) from Hauptbahnhof 01:14 (01:14) to GrandCentral 02:17 (02:17) started on time.
+01:16 Train [1] (RUNNING) from GrandCentral 01:16 (01:16) to Liege-Guillemins 02:46 (02:46) started on time.
+01:16 Train [34] (RUNNING) from ST.Pancras 01:16 (01:16) to GrandCentral 02:30 (02:30) started on time.
+01:17 Train [99] (RUNNING) from Shinjuku 01:17 (01:17) to GrandCentral 01:57 (01:57) started on time.
+01:20 Train [83] (READY) from Luz 01:30 (01:30) to GrandCentral 02:56 (02:56) is ready for departure. 
+01:21 Train [67] (RUNNING) from MilanoCentrale 01:21 (01:21) to GrandCentral 01:48 (01:48) started on time.
+01:30 Train [83] (RUNNING) from Luz 01:30 (01:30) to GrandCentral 02:56 (02:56) started on time.
+01:48 Train [67] (ARRIVED) from MilanoCentrale 01:21 (01:48) speed = 133 km/h arrived on time.
+01:54 Train [18] (ASSEMBLED) from Liege-Guillemins 02:24 (02:24) to ST.Pancras 03:36 (03:36) is now assembled. 
+01:55 Train [116] (ASSEMBLED) from Hauptbahnhof 02:25 (02:25) to Liege-Guillemins 03:17 (03:17) is now assembled. 
+01:57 Train [51] (ASSEMBLED) from Dunedin 02:27 (02:27) to Liege-Guillemins 03:00 (03:00) is now assembled. 
+01:57 Train [99] (ARRIVED) from Shinjuku 01:17 (01:57) speed = 135 km/h arrived on time.
+02:02 Train [68] (ASSEMBLED) from MilanoCentrale 02:32 (02:32) to Liege-Guillemins 03:46 (03:46) is now assembled. 
+02:03 Train [2] (ASSEMBLED) from GrandCentral 02:33 (02:33) to ST.Pancras 03:51 (03:51) is now assembled. 
+02:05 Train [50] (ARRIVED) from Dunedin 01:12 (02:05) speed = 124 km/h arrived on time.
+02:08 Train [67] (FINISHED) from MilanoCentrale 01:48 (01:48) speed = 133 km/h has been dissambled.
+02:14 Train [18] (READY) from Liege-Guillemins 02:24 (02:24) to ST.Pancras 03:36 (03:36) is ready for departure. 
+02:15 Train [35] (ASSEMBLED) from ST.Pancras 02:45 (02:45) to Liege-Guillemins 03:59 (03:59) is now assembled. 
+02:15 Train [116] (READY) from Hauptbahnhof 02:25 (02:25) to Liege-Guillemins 03:17 (03:17) is ready for departure. 
+02:17 Train [100] (ASSEMBLED) from Shinjuku 02:47 (02:47) to Liege-Guillemins 03:40 (03:40) is now assembled. 
+02:17 Train [115] (ARRIVED) from Hauptbahnhof 01:14 (02:17) speed = 138 km/h arrived on time.
+02:17 Train [51] (READY) from Dunedin 02:27 (02:27) to Liege-Guillemins 03:00 (03:00) is ready for departure. 
+02:17 Train [99] (FINISHED) from Shinjuku 01:57 (01:57) speed = 135 km/h has been dissambled.
+02:22 Train [68] (READY) from MilanoCentrale 02:32 (02:32) to Liege-Guillemins 03:46 (03:46) is ready for departure. 
+02:23 Train [2] (READY) from GrandCentral 02:33 (02:33) to ST.Pancras 03:51 (03:51) is ready for departure. 
+02:24 Train [18] (RUNNING) from Liege-Guillemins 02:24 (02:24) to ST.Pancras 03:36 (03:36) started on time.
+02:25 Train [116] (RUNNING) from Hauptbahnhof 02:25 (02:25) to Liege-Guillemins 03:17 (03:17) started on time.
+02:25 Train [50] (FINISHED) from Dunedin 02:05 (02:05) speed = 124 km/h has been dissambled.
+02:27 Train [51] (RUNNING) from Dunedin 02:27 (02:27) to Liege-Guillemins 03:00 (03:00) started on time.
+02:29 Train [84] (ASSEMBLED) from Luz 02:59 (02:59) to Liege-Guillemins 03:13 (03:13) is now assembled. 
+02:30 Train [34] (ARRIVED) from ST.Pancras 01:16 (02:30) speed = 137 km/h arrived on time.
+02:32 Train [68] (RUNNING) from MilanoCentrale 02:32 (02:32) to Liege-Guillemins 03:46 (03:46) started on time.
+02:33 Train [2] (RUNNING) from GrandCentral 02:33 (02:33) to ST.Pancras 03:51 (03:51) started on time.
+02:35 Train [35] (READY) from ST.Pancras 02:45 (02:45) to Liege-Guillemins 03:59 (03:59) is ready for departure. 
+02:37 Train [17] (ARRIVED) from Liege-Guillemins 01:14 (02:37) speed = 137 km/h arrived on time.
+02:37 Train [115] (FINISHED) from Hauptbahnhof 02:17 (02:17) speed = 138 km/h has been dissambled.
+02:37 Train [100] (READY) from Shinjuku 02:47 (02:47) to Liege-Guillemins 03:40 (03:40) is ready for departure. 
+02:45 Train [35] (RUNNING) from ST.Pancras 02:45 (02:45) to Liege-Guillemins 03:59 (03:59) started on time.
+02:46 Train [1] (ARRIVED) from GrandCentral 01:16 (02:46) speed = 126 km/h arrived on time.
+02:47 Train [100] (RUNNING) from Shinjuku 02:47 (02:47) to Liege-Guillemins 03:40 (03:40) started on time.
+02:49 Train [84] (READY) from Luz 02:59 (02:59) to Liege-Guillemins 03:13 (03:13) is ready for departure. 
+02:50 Train [34] (FINISHED) from ST.Pancras 02:30 (02:30) speed = 137 km/h has been dissambled.
+02:56 Train [83] (ARRIVED) from Luz 01:30 (02:56) speed = 122 km/h arrived on time.
+02:57 Train [17] (FINISHED) from Liege-Guillemins 02:37 (02:37) speed = 137 km/h has been dissambled.
+02:59 Train [84] (RUNNING) from Luz 02:59 (02:59) to Liege-Guillemins 03:13 (03:13) started on time.
+03:00 Train [51] (ARRIVED) from Dunedin 02:27 (03:00) speed = 136 km/h arrived on time.
+03:06 Train [1] (FINISHED) from GrandCentral 02:46 (02:46) speed = 126 km/h has been dissambled.
+03:13 Train [84] (ARRIVED) from Luz 02:59 (03:13) speed = 128 km/h arrived on time.
+03:15 Train [69] (ASSEMBLED) from MilanoCentrale 03:45 (03:45) to ST.Pancras 04:32 (04:32) is now assembled. 
+03:16 Train [83] (FINISHED) from Luz 02:56 (02:56) speed = 122 km/h has been dissambled.
+03:17 Train [116] (ARRIVED) from Hauptbahnhof 02:25 (03:17) speed = 126 km/h arrived on time.
+03:18 Train [3] (ASSEMBLED) from GrandCentral 03:48 (03:48) to Dunedin 04:36 (04:36) is now assembled. 
+03:20 Train [51] (FINISHED) from Dunedin 03:00 (03:00) speed = 136 km/h has been dissambled.
+03:20 Train [52] (ASSEMBLED) from Dunedin 03:50 (03:50) to ST.Pancras 04:53 (04:53) is now assembled. 
+03:26 Train [19] (ASSEMBLED) from Liege-Guillemins 03:56 (03:56) to Dunedin 04:31 (04:31) is now assembled. 
+03:27 Train [101] (ASSEMBLED) from Shinjuku 03:57 (03:57) to ST.Pancras 05:08 (05:08) is now assembled. 
+03:28 Train [117] (ASSEMBLED) from Hauptbahnhof 03:58 (03:58) to ST.Pancras 05:40 (05:40) is now assembled. 
+03:33 Train [84] (FINISHED) from Luz 03:13 (03:13) speed = 128 km/h has been dissambled.
+03:35 Train [69] (READY) from MilanoCentrale 03:45 (03:45) to ST.Pancras 04:32 (04:32) is ready for departure. 
+03:36 Train [18] (ARRIVED) from Liege-Guillemins 02:24 (03:36) speed = 135 km/h arrived on time.
+03:36 Train [36] (ASSEMBLED) from ST.Pancras 04:06 (04:06) to Dunedin 05:15 (05:15) is now assembled. 
+03:37 Train [116] (FINISHED) from Hauptbahnhof 03:17 (03:17) speed = 126 km/h has been dissambled.
+03:38 Train [3] (READY) from GrandCentral 03:48 (03:48) to Dunedin 04:36 (04:36) is ready for departure. 
+03:40 Train [52] (READY) from Dunedin 03:50 (03:50) to ST.Pancras 04:53 (04:53) is ready for departure. 
+03:40 Train [100] (ARRIVED) from Shinjuku 02:47 (03:40) speed = 121 km/h arrived on time.
+03:44 Train [85] (ASSEMBLED) from Luz 04:14 (04:14) to ST.Pancras 05:39 (05:39) is now assembled. 
+03:45 Train [69] (RUNNING) from MilanoCentrale 03:45 (03:45) to ST.Pancras 04:32 (04:32) started on time.
+03:46 Train [19] (READY) from Liege-Guillemins 03:56 (03:56) to Dunedin 04:31 (04:31) is ready for departure. 
+03:46 Train [68] (ARRIVED) from MilanoCentrale 02:32 (03:46) speed = 125 km/h arrived on time.
+03:47 Train [101] (READY) from Shinjuku 03:57 (03:57) to ST.Pancras 05:08 (05:08) is ready for departure. 
+03:48 Train [3] (RUNNING) from GrandCentral 03:48 (03:48) to Dunedin 04:36 (04:36) started on time.
+03:48 Train [117] (READY) from Hauptbahnhof 03:58 (03:58) to ST.Pancras 05:40 (05:40) is ready for departure. 
+03:50 Train [52] (RUNNING) from Dunedin 03:50 (03:50) to ST.Pancras 04:53 (04:53) started on time.
+03:51 Train [2] (ARRIVED) from GrandCentral 02:33 (03:51) speed = 130 km/h arrived on time.
+03:56 Train [19] (RUNNING) from Liege-Guillemins 03:56 (03:56) to Dunedin 04:31 (04:31) started on time.
+03:56 Train [18] (FINISHED) from Liege-Guillemins 03:36 (03:36) speed = 135 km/h has been dissambled.
+03:56 Train [36] (READY) from ST.Pancras 04:06 (04:06) to Dunedin 05:15 (05:15) is ready for departure. 
+03:57 Train [101] (RUNNING) from Shinjuku 03:57 (03:57) to ST.Pancras 05:08 (05:08) started on time.
+03:58 Train [117] (RUNNING) from Hauptbahnhof 03:58 (03:58) to ST.Pancras 05:40 (05:40) started on time.
+03:59 Train [35] (ARRIVED) from ST.Pancras 02:45 (03:59) speed = 131 km/h arrived on time.
+04:00 Train [100] (FINISHED) from Shinjuku 03:40 (03:40) speed = 121 km/h has been dissambled.
+04:04 Train [85] (READY) from Luz 04:14 (04:14) to ST.Pancras 05:39 (05:39) is ready for departure. 
+04:06 Train [36] (RUNNING) from ST.Pancras 04:06 (04:06) to Dunedin 05:15 (05:15) started on time.
+04:06 Train [68] (FINISHED) from MilanoCentrale 03:46 (03:46) speed = 125 km/h has been dissambled.
+04:11 Train [2] (FINISHED) from GrandCentral 03:51 (03:51) speed = 130 km/h has been dissambled.
+04:14 Train [85] (RUNNING) from Luz 04:14 (04:14) to ST.Pancras 05:39 (05:39) started on time.
+04:19 Train [35] (FINISHED) from ST.Pancras 03:59 (03:59) speed = 131 km/h has been dissambled.
+04:31 Train [19] (ARRIVED) from Liege-Guillemins 03:56 (04:31) speed = 128 km/h arrived on time.
+04:32 Train [69] (ARRIVED) from MilanoCentrale 03:45 (04:32) speed = 140 km/h arrived on time.
+04:35 Train [53] (ASSEMBLED) from Dunedin 05:05 (05:05) to MilanoCentrale 05:44 (05:44) is now assembled. 
+04:36 Train [3] (ARRIVED) from GrandCentral 03:48 (04:36) speed = 137 km/h arrived on time.
+04:36 Train [20] (ASSEMBLED) from Liege-Guillemins 05:06 (05:06) to MilanoCentrale 06:17 (06:17) is now assembled. 
+04:44 Train [118] (ASSEMBLED) from Hauptbahnhof 05:14 (05:14) to Dunedin 05:49 (05:49) is now assembled. 
+04:47 Train [70] (ASSEMBLED) from MilanoCentrale 05:17 (05:17) to Dunedin 05:55 (05:55) is now assembled. 
+04:50 Train [37] (ASSEMBLED) from ST.Pancras 05:20 (05:20) to MilanoCentrale 06:11 (06:11) is now assembled. 
+04:51 Train [19] (FINISHED) from Liege-Guillemins 04:31 (04:31) speed = 128 km/h has been dissambled.
+04:51 Train [4] (ASSEMBLED) from GrandCentral 05:21 (05:21) to MilanoCentrale 05:46 (05:46) is now assembled. 
+04:52 Train [69] (FINISHED) from MilanoCentrale 04:32 (04:32) speed = 140 km/h has been dissambled.
+04:53 Train [52] (ARRIVED) from Dunedin 03:50 (04:53) speed = 138 km/h arrived on time.
+04:55 Train [53] (READY) from Dunedin 05:05 (05:05) to MilanoCentrale 05:44 (05:44) is ready for departure. 
+04:56 Train [3] (FINISHED) from GrandCentral 04:36 (04:36) speed = 137 km/h has been dissambled.
+04:56 Train [20] (READY) from Liege-Guillemins 05:06 (05:06) to MilanoCentrale 06:17 (06:17) is ready for departure. 
+05:01 Train [102] (ASSEMBLED) from Shinjuku 05:31 (05:31) to Dunedin 05:45 (05:45) is now assembled. 
+05:04 Train [118] (READY) from Hauptbahnhof 05:14 (05:14) to Dunedin 05:49 (05:49) is ready for departure. 
+05:05 Train [53] (RUNNING) from Dunedin 05:05 (05:05) to MilanoCentrale 05:44 (05:44) started on time.
+05:06 Train [20] (RUNNING) from Liege-Guillemins 05:06 (05:06) to MilanoCentrale 06:17 (06:17) started on time.
+05:07 Train [70] (READY) from MilanoCentrale 05:17 (05:17) to Dunedin 05:55 (05:55) is ready for departure. 
+05:08 Train [101] (ARRIVED) from Shinjuku 03:57 (05:08) speed = 135 km/h arrived on time.
+05:10 Train [37] (READY) from ST.Pancras 05:20 (05:20) to MilanoCentrale 06:11 (06:11) is ready for departure. 
+05:11 Train [4] (READY) from GrandCentral 05:21 (05:21) to MilanoCentrale 05:46 (05:46) is ready for departure. 
+05:13 Train [52] (FINISHED) from Dunedin 04:53 (04:53) speed = 138 km/h has been dissambled.
+05:14 Train [118] (RUNNING) from Hauptbahnhof 05:14 (05:14) to Dunedin 05:49 (05:49) started on time.
+05:15 Train [36] (ARRIVED) from ST.Pancras 04:06 (05:15) speed = 126 km/h arrived on time.
+05:17 Train [70] (RUNNING) from MilanoCentrale 05:17 (05:17) to Dunedin 05:55 (05:55) started on time.
+05:17 Train [86] (ASSEMBLED) from Luz 05:47 (05:47) to Dunedin 06:16 (06:16) is now assembled. 
+05:20 Train [37] (RUNNING) from ST.Pancras 05:20 (05:20) to MilanoCentrale 06:11 (06:11) started on time.
+05:21 Train [102] (READY) from Shinjuku 05:31 (05:31) to Dunedin 05:45 (05:45) is ready for departure. 
+05:21 Train [4] (RUNNING) from GrandCentral 05:21 (05:21) to MilanoCentrale 05:46 (05:46) started on time.
+05:28 Train [101] (FINISHED) from Shinjuku 05:08 (05:08) speed = 135 km/h has been dissambled.
+05:31 Train [102] (RUNNING) from Shinjuku 05:31 (05:31) to Dunedin 05:45 (05:45) started on time.
+05:35 Train [36] (FINISHED) from ST.Pancras 05:15 (05:15) speed = 126 km/h has been dissambled.
+05:37 Train [86] (READY) from Luz 05:47 (05:47) to Dunedin 06:16 (06:16) is ready for departure. 
+05:39 Train [85] (ARRIVED) from Luz 04:14 (05:39) speed = 126 km/h arrived on time.
+05:40 Train [117] (ARRIVED) from Hauptbahnhof 03:58 (05:40) speed = 132 km/h arrived on time.
+05:44 Train [53] (ARRIVED) from Dunedin 05:05 (05:44) speed = 138 km/h arrived on time.
+05:45 Train [102] (ARRIVED) from Shinjuku 05:31 (05:45) speed = 137 km/h arrived on time.
+05:46 Train [4] (ARRIVED) from GrandCentral 05:21 (05:46) speed = 144 km/h arrived on time.
+05:47 Train [86] (RUNNING) from Luz 05:47 (05:47) to Dunedin 06:16 (06:16) started on time.
+05:49 Train [118] (ARRIVED) from Hauptbahnhof 05:14 (05:49) speed = 138 km/h arrived on time.
+05:55 Train [70] (ARRIVED) from MilanoCentrale 05:17 (05:55) speed = 142 km/h arrived on time.
+05:59 Train [85] (FINISHED) from Luz 05:39 (05:39) speed = 126 km/h has been dissambled.
+06:00 Train [54] (ASSEMBLED) from Dunedin 06:30 (06:30) to Luz 06:58 (06:58) is now assembled. 
+06:00 Train [117] (FINISHED) from Hauptbahnhof 05:40 (05:40) speed = 132 km/h has been dissambled.
+06:04 Train [53] (FINISHED) from Dunedin 05:44 (05:44) speed = 138 km/h has been dissambled.
+06:05 Train [102] (FINISHED) from Shinjuku 05:45 (05:45) speed = 137 km/h has been dissambled.
+06:06 Train [4] (FINISHED) from GrandCentral 05:46 (05:46) speed = 144 km/h has been dissambled.
+06:08 Train [21] (ASSEMBLED) from Liege-Guillemins 06:38 (06:38) to Luz 06:51 (06:51) is now assembled. 
+06:09 Train [118] (FINISHED) from Hauptbahnhof 05:49 (05:49) speed = 138 km/h has been dissambled.
+06:09 Train [119] (ASSEMBLED) from Hauptbahnhof 06:39 (06:39) to MilanoCentrale 07:49 (07:49) is now assembled. 
+06:11 Train [37] (ARRIVED) from ST.Pancras 05:20 (06:11) speed = 129 km/h arrived on time.
+06:12 Train [38] (ASSEMBLED) from ST.Pancras 06:42 (06:42) to Luz 08:09 (08:09) is now assembled. 
+06:15 Train [70] (FINISHED) from MilanoCentrale 05:55 (05:55) speed = 142 km/h has been dissambled.
+06:15 Train [71] (ASSEMBLED) from MilanoCentrale 06:45 (06:45) to Luz 07:57 (07:57) is now assembled. 
+06:16 Train [86] (ARRIVED) from Luz 05:47 (06:16) speed = 134 km/h arrived on time.
+06:17 Train [20] (ARRIVED) from Liege-Guillemins 05:06 (06:17) speed = 130 km/h arrived on time.
+06:20 Train [54] (READY) from Dunedin 06:30 (06:30) to Luz 06:58 (06:58) is ready for departure. 
+06:20 Train [5] (ASSEMBLED) from GrandCentral 06:50 (06:50) to Luz 08:06 (08:06) is now assembled. 
+06:28 Train [21] (READY) from Liege-Guillemins 06:38 (06:38) to Luz 06:51 (06:51) is ready for departure. 
+06:29 Train [119] (READY) from Hauptbahnhof 06:39 (06:39) to MilanoCentrale 07:49 (07:49) is ready for departure. 
+06:30 Train [103] (ASSEMBLED) from Shinjuku 07:00 (07:00) to MilanoCentrale 07:37 (07:37) is now assembled. 
+06:30 Train [54] (RUNNING) from Dunedin 06:30 (06:30) to Luz 06:58 (06:58) started on time.
+06:31 Train [37] (FINISHED) from ST.Pancras 06:11 (06:11) speed = 129 km/h has been dissambled.
+06:32 Train [38] (READY) from ST.Pancras 06:42 (06:42) to Luz 08:09 (08:09) is ready for departure. 
+06:35 Train [71] (READY) from MilanoCentrale 06:45 (06:45) to Luz 07:57 (07:57) is ready for departure. 
+06:36 Train [86] (FINISHED) from Luz 06:16 (06:16) speed = 134 km/h has been dissambled.
+06:37 Train [20] (FINISHED) from Liege-Guillemins 06:17 (06:17) speed = 130 km/h has been dissambled.
+06:38 Train [21] (RUNNING) from Liege-Guillemins 06:38 (06:38) to Luz 06:51 (06:51) started on time.
+06:39 Train [119] (RUNNING) from Hauptbahnhof 06:39 (06:39) to MilanoCentrale 07:49 (07:49) started on time.
+06:40 Train [5] (READY) from GrandCentral 06:50 (06:50) to Luz 08:06 (08:06) is ready for departure. 
+06:42 Train [38] (RUNNING) from ST.Pancras 06:42 (06:42) to Luz 08:09 (08:09) started on time.
+06:45 Train [71] (RUNNING) from MilanoCentrale 06:45 (06:45) to Luz 07:57 (07:57) started on time.
+06:50 Train [103] (READY) from Shinjuku 07:00 (07:00) to MilanoCentrale 07:37 (07:37) is ready for departure. 
+06:50 Train [5] (RUNNING) from GrandCentral 06:50 (06:50) to Luz 08:06 (08:06) started on time.
+06:51 Train [21] (ARRIVED) from Liege-Guillemins 06:38 (06:51) speed = 138 km/h arrived on time.
+06:51 Train [87] (ASSEMBLED) from Luz 07:21 (07:21) to MilanoCentrale 08:39 (08:39) could not be assembled. Trying again in 10 minutes. 
+06:58 Train [54] (ARRIVED) from Dunedin 06:30 (06:58) speed = 139 km/h arrived on time.
+07:00 Train [103] (RUNNING) from Shinjuku 07:00 (07:00) to MilanoCentrale 07:37 (07:37) started on time.
+07:01 Train [87] (ASSEMBLED) from Luz 07:21 (07:31) to MilanoCentrale 08:39 (08:49) could not be assembled. Trying again in 10 minutes. 
+07:11 Train [21] (FINISHED) from Liege-Guillemins 06:51 (06:51) speed = 138 km/h has been dissambled.
+07:11 Train [87] (ASSEMBLED) from Luz 07:21 (07:41) to MilanoCentrale 08:39 (08:59) could not be assembled. Trying again in 10 minutes. 
+07:18 Train [54] (FINISHED) from Dunedin 06:58 (06:58) speed = 139 km/h has been dissambled.
+07:18 Train [22] (ASSEMBLED) from Liege-Guillemins 07:48 (07:48) to Shinjuku 08:34 (08:34) is now assembled. 
+07:21 Train [87] (ASSEMBLED) from Luz 07:21 (07:51) to MilanoCentrale 08:39 (09:09) is now assembled. 
+07:26 Train [39] (ASSEMBLED) from ST.Pancras 07:56 (07:56) to Shinjuku 09:16 (09:16) is now assembled. 
+07:26 Train [120] (ASSEMBLED) from Hauptbahnhof 07:56 (07:56) to Luz 08:32 (08:32) is now assembled. 
+07:28 Train [55] (ASSEMBLED) from Dunedin 07:58 (07:58) to Shinjuku 08:12 (08:12) is now assembled. 
+07:37 Train [6] (ASSEMBLED) from GrandCentral 08:07 (08:07) to Shinjuku 08:50 (08:50) is now assembled. 
+07:37 Train [103] (ARRIVED) from Shinjuku 07:00 (07:37) speed = 137 km/h arrived on time.
+07:38 Train [22] (READY) from Liege-Guillemins 07:48 (07:48) to Shinjuku 08:34 (08:34) is ready for departure. 
+07:41 Train [87] (READY) from Luz 07:21 (07:51) to MilanoCentrale 08:39 (09:09) is ready for departure. 
+07:42 Train [72] (ASSEMBLED) from MilanoCentrale 08:12 (08:12) to Shinjuku 08:49 (08:49) is now assembled. 
+07:46 Train [39] (READY) from ST.Pancras 07:56 (07:56) to Shinjuku 09:16 (09:16) is ready for departure. 
+07:46 Train [120] (READY) from Hauptbahnhof 07:56 (07:56) to Luz 08:32 (08:32) is ready for departure. 
+07:48 Train [55] (READY) from Dunedin 07:58 (07:58) to Shinjuku 08:12 (08:12) is ready for departure. 
+07:48 Train [22] (RUNNING) from Liege-Guillemins 07:48 (07:48) to Shinjuku 08:34 (08:34) started on time.
+07:49 Train [119] (ARRIVED) from Hauptbahnhof 06:39 (07:49) speed = 135 km/h arrived on time.
+07:51 Train [87] (RUNNING) from Luz 07:21 (07:51) to MilanoCentrale 08:39 (09:09) started. Is 00:30 minutes late.
+07:56 Train [39] (RUNNING) from ST.Pancras 07:56 (07:56) to Shinjuku 09:16 (09:16) started on time.
+07:56 Train [120] (RUNNING) from Hauptbahnhof 07:56 (07:56) to Luz 08:32 (08:32) started on time.
+07:57 Train [104] (ASSEMBLED) from Shinjuku 08:27 (08:27) to Luz 09:05 (09:05) is now assembled. 
+07:57 Train [6] (READY) from GrandCentral 08:07 (08:07) to Shinjuku 08:50 (08:50) is ready for departure. 
+07:57 Train [71] (ARRIVED) from MilanoCentrale 06:45 (07:57) speed = 130 km/h arrived on time.
+07:57 Train [103] (FINISHED) from Shinjuku 07:37 (07:37) speed = 137 km/h has been dissambled.
+07:58 Train [55] (RUNNING) from Dunedin 07:58 (07:58) to Shinjuku 08:12 (08:12) started on time.
+08:02 Train [72] (READY) from MilanoCentrale 08:12 (08:12) to Shinjuku 08:49 (08:49) is ready for departure. 
+08:06 Train [5] (ARRIVED) from GrandCentral 06:50 (08:06) speed = 138 km/h arrived on time.
+08:07 Train [6] (RUNNING) from GrandCentral 08:07 (08:07) to Shinjuku 08:50 (08:50) started on time.
+08:09 Train [119] (FINISHED) from Hauptbahnhof 07:49 (07:49) speed = 135 km/h has been dissambled.
+08:09 Train [88] (ASSEMBLED) from Luz 08:39 (08:39) to Shinjuku 09:22 (09:22) is now assembled. 
+08:09 Train [38] (ARRIVED) from ST.Pancras 06:42 (08:09) speed = 123 km/h arrived on time.
+08:12 Train [55] (ARRIVED) from Dunedin 07:58 (08:12) speed = 137 km/h arrived on time.
+08:12 Train [72] (RUNNING) from MilanoCentrale 08:12 (08:12) to Shinjuku 08:49 (08:49) started on time.
+08:17 Train [104] (READY) from Shinjuku 08:27 (08:27) to Luz 09:05 (09:05) is ready for departure. 
+08:17 Train [71] (FINISHED) from MilanoCentrale 07:57 (07:57) speed = 130 km/h has been dissambled.
+08:26 Train [5] (FINISHED) from GrandCentral 08:06 (08:06) speed = 138 km/h has been dissambled.
+08:27 Train [104] (RUNNING) from Shinjuku 08:27 (08:27) to Luz 09:05 (09:05) started on time.
+08:29 Train [88] (READY) from Luz 08:39 (08:39) to Shinjuku 09:22 (09:22) is ready for departure. 
+08:29 Train [38] (FINISHED) from ST.Pancras 08:09 (08:09) speed = 123 km/h has been dissambled.
+08:32 Train [120] (ARRIVED) from Hauptbahnhof 07:56 (08:32) speed = 135 km/h arrived on time.
+08:32 Train [55] (FINISHED) from Dunedin 08:12 (08:12) speed = 137 km/h has been dissambled.
+08:34 Train [22] (ARRIVED) from Liege-Guillemins 07:48 (08:34) speed = 139 km/h arrived on time.
+08:39 Train [87] (ARRIVED) from Luz 07:21 (08:39) speed = 195 km/h arrived on time.
+08:39 Train [88] (RUNNING) from Luz 08:39 (08:39) to Shinjuku 09:22 (09:22) started on time.
+08:41 Train [121] (ASSEMBLED) from Hauptbahnhof 09:11 (09:11) to Shinjuku 09:42 (09:42) could not be assembled. Trying again in 10 minutes. 
+08:42 Train [23] (ASSEMBLED) from Liege-Guillemins 09:12 (09:12) to Hauptbahnhof 10:02 (10:02) is now assembled. 
+08:49 Train [72] (ARRIVED) from MilanoCentrale 08:12 (08:49) speed = 137 km/h arrived on time.
+08:50 Train [6] (ARRIVED) from GrandCentral 08:07 (08:50) speed = 125 km/h arrived on time.
+08:51 Train [121] (ASSEMBLED) from Hauptbahnhof 09:11 (09:21) to Shinjuku 09:42 (09:52) could not be assembled. Trying again in 10 minutes. 
+08:52 Train [120] (FINISHED) from Hauptbahnhof 08:32 (08:32) speed = 135 km/h has been dissambled.
+08:53 Train [56] (ASSEMBLED) from Dunedin 09:23 (09:23) to Hauptbahnhof 10:03 (10:03) is now assembled. 
+08:54 Train [22] (FINISHED) from Liege-Guillemins 08:34 (08:34) speed = 139 km/h has been dissambled.
+08:57 Train [40] (ASSEMBLED) from ST.Pancras 09:27 (09:27) to Hauptbahnhof 11:10 (11:10) is now assembled. 
+08:59 Train [87] (FINISHED) from Luz 08:39 (08:39) speed = 195 km/h has been dissambled.
+09:00 Train [7] (ASSEMBLED) from GrandCentral 09:30 (09:30) to Hauptbahnhof 10:34 (10:34) is now assembled. 
+09:01 Train [121] (ASSEMBLED) from Hauptbahnhof 09:11 (09:31) to Shinjuku 09:42 (10:02) could not be assembled. Trying again in 10 minutes. 
+09:02 Train [23] (READY) from Liege-Guillemins 09:12 (09:12) to Hauptbahnhof 10:02 (10:02) is ready for departure. 
+09:05 Train [104] (ARRIVED) from Shinjuku 08:27 (09:05) speed = 140 km/h arrived on time.
+09:09 Train [72] (FINISHED) from MilanoCentrale 08:49 (08:49) speed = 137 km/h has been dissambled.
+09:10 Train [6] (FINISHED) from GrandCentral 08:50 (08:50) speed = 125 km/h has been dissambled.
+09:11 Train [121] (ASSEMBLED) from Hauptbahnhof 09:11 (09:41) to Shinjuku 09:42 (10:12) could not be assembled. Trying again in 10 minutes. 
+09:12 Train [23] (RUNNING) from Liege-Guillemins 09:12 (09:12) to Hauptbahnhof 10:02 (10:02) started on time.
+09:13 Train [56] (READY) from Dunedin 09:23 (09:23) to Hauptbahnhof 10:03 (10:03) is ready for departure. 
+09:14 Train [73] (ASSEMBLED) from MilanoCentrale 09:44 (09:44) to Hauptbahnhof 11:00 (11:00) is now assembled. 
+09:16 Train [39] (ARRIVED) from ST.Pancras 07:56 (09:16) speed = 120 km/h arrived on time.
+09:17 Train [40] (READY) from ST.Pancras 09:27 (09:27) to Hauptbahnhof 11:10 (11:10) is ready for departure. 
+09:20 Train [7] (READY) from GrandCentral 09:30 (09:30) to Hauptbahnhof 10:34 (10:34) is ready for departure. 
+09:21 Train [121] (ASSEMBLED) from Hauptbahnhof 09:11 (09:51) to Shinjuku 09:42 (10:22) could not be assembled. Trying again in 10 minutes. 
+09:22 Train [88] (ARRIVED) from Luz 08:39 (09:22) speed = 124 km/h arrived on time.
+09:23 Train [56] (RUNNING) from Dunedin 09:23 (09:23) to Hauptbahnhof 10:03 (10:03) started on time.
+09:25 Train [104] (FINISHED) from Shinjuku 09:05 (09:05) speed = 140 km/h has been dissambled.
+09:27 Train [40] (RUNNING) from ST.Pancras 09:27 (09:27) to Hauptbahnhof 11:10 (11:10) started on time.
+09:30 Train [105] (ASSEMBLED) from Shinjuku 10:00 (10:00) to Hauptbahnhof 10:32 (10:32) is now assembled. 
+09:30 Train [7] (RUNNING) from GrandCentral 09:30 (09:30) to Hauptbahnhof 10:34 (10:34) started on time.
+09:31 Train [121] (ASSEMBLED) from Hauptbahnhof 09:11 (10:01) to Shinjuku 09:42 (10:32) could not be assembled. Trying again in 10 minutes. 
+09:34 Train [89] (ASSEMBLED) from Luz 10:04 (10:04) to Hauptbahnhof 10:43 (10:43) is now assembled. 
+09:34 Train [73] (READY) from MilanoCentrale 09:44 (09:44) to Hauptbahnhof 11:00 (11:00) is ready for departure. 
+09:36 Train [39] (FINISHED) from ST.Pancras 09:16 (09:16) speed = 120 km/h has been dissambled.
+09:41 Train [121] (ASSEMBLED) from Hauptbahnhof 09:11 (10:11) to Shinjuku 09:42 (10:42) could not be assembled. Trying again in 10 minutes. 
+09:42 Train [88] (FINISHED) from Luz 09:22 (09:22) speed = 124 km/h has been dissambled.
+09:44 Train [73] (RUNNING) from MilanoCentrale 09:44 (09:44) to Hauptbahnhof 11:00 (11:00) started on time.
+09:50 Train [105] (READY) from Shinjuku 10:00 (10:00) to Hauptbahnhof 10:32 (10:32) is ready for departure. 
+09:51 Train [121] (ASSEMBLED) from Hauptbahnhof 09:11 (10:21) to Shinjuku 09:42 (10:52) could not be assembled. Trying again in 10 minutes. 
+09:54 Train [89] (READY) from Luz 10:04 (10:04) to Hauptbahnhof 10:43 (10:43) is ready for departure. 
+10:00 Train [105] (RUNNING) from Shinjuku 10:00 (10:00) to Hauptbahnhof 10:32 (10:32) started on time.
+10:01 Train [121] (ASSEMBLED) from Hauptbahnhof 09:11 (10:31) to Shinjuku 09:42 (11:02) could not be assembled. Trying again in 10 minutes. 
+10:02 Train [23] (ARRIVED) from Liege-Guillemins 09:12 (10:02) speed = 132 km/h arrived on time.
+10:03 Train [24] (ASSEMBLED) from Liege-Guillemins 10:33 (10:33) to GrandCentral 12:06 (12:06) is now assembled. 
+10:03 Train [56] (ARRIVED) from Dunedin 09:23 (10:03) speed = 121 km/h arrived on time.
+10:04 Train [89] (RUNNING) from Luz 10:04 (10:04) to Hauptbahnhof 10:43 (10:43) started on time.
+10:11 Train [121] (ASSEMBLED) from Hauptbahnhof 09:11 (10:41) to Shinjuku 09:42 (11:12) could not be assembled. Trying again in 10 minutes. 
+10:13 Train [122] (ASSEMBLED) from Hauptbahnhof 10:43 (10:43) to GrandCentral 11:49 (11:49) is now assembled. 
+10:13 Train [57] (ASSEMBLED) from Dunedin 10:43 (10:43) to GrandCentral 11:35 (11:35) is now assembled. 
+10:21 Train [121] (ASSEMBLED) from Hauptbahnhof 09:11 (10:51) to Shinjuku 09:42 (11:22) could not be assembled. Trying again in 10 minutes. 
+10:22 Train [23] (FINISHED) from Liege-Guillemins 10:02 (10:02) speed = 132 km/h has been dissambled.
+10:23 Train [24] (READY) from Liege-Guillemins 10:33 (10:33) to GrandCentral 12:06 (12:06) is ready for departure. 
+10:23 Train [56] (FINISHED) from Dunedin 10:03 (10:03) speed = 121 km/h has been dissambled.
+10:28 Train [8] (ASSEMBLED) from GrandCentral 10:58 (10:58) to Liege-Guillemins 12:33 (12:33) is now assembled. 
+10:31 Train [41] (ASSEMBLED) from ST.Pancras 11:01 (11:01) to GrandCentral 12:21 (12:21) is now assembled. 
+10:31 Train [121] (ASSEMBLED) from Hauptbahnhof 09:11 (11:01) to Shinjuku 09:42 (11:32) could not be assembled. Trying again in 10 minutes. 
+10:32 Train [105] (ARRIVED) from Shinjuku 10:00 (10:32) speed = 135 km/h arrived on time.
+10:33 Train [122] (READY) from Hauptbahnhof 10:43 (10:43) to GrandCentral 11:49 (11:49) is ready for departure. 
+10:33 Train [57] (READY) from Dunedin 10:43 (10:43) to GrandCentral 11:35 (11:35) is ready for departure. 
+10:33 Train [24] (RUNNING) from Liege-Guillemins 10:33 (10:33) to GrandCentral 12:06 (12:06) started on time.
+10:34 Train [7] (ARRIVED) from GrandCentral 09:30 (10:34) speed = 135 km/h arrived on time.
+10:41 Train [121] (ASSEMBLED) from Hauptbahnhof 09:11 (11:11) to Shinjuku 09:42 (11:42) could not be assembled. Trying again in 10 minutes. 
+10:43 Train [122] (RUNNING) from Hauptbahnhof 10:43 (10:43) to GrandCentral 11:49 (11:49) started on time.
+10:43 Train [57] (RUNNING) from Dunedin 10:43 (10:43) to GrandCentral 11:35 (11:35) started on time.
+10:43 Train [74] (ASSEMBLED) from MilanoCentrale 11:13 (11:13) to GrandCentral 11:39 (11:39) is now assembled. 
+10:43 Train [89] (ARRIVED) from Luz 10:04 (10:43) speed = 124 km/h arrived on time.
+10:48 Train [8] (READY) from GrandCentral 10:58 (10:58) to Liege-Guillemins 12:33 (12:33) is ready for departure. 
+10:51 Train [41] (READY) from ST.Pancras 11:01 (11:01) to GrandCentral 12:21 (12:21) is ready for departure. 
+10:51 Train [121] (ASSEMBLED) from Hauptbahnhof 09:11 (11:21) to Shinjuku 09:42 (11:52) could not be assembled. Trying again in 10 minutes. 
+10:52 Train [105] (FINISHED) from Shinjuku 10:32 (10:32) speed = 135 km/h has been dissambled.
+10:54 Train [7] (FINISHED) from GrandCentral 10:34 (10:34) speed = 135 km/h has been dissambled.
+10:56 Train [90] (ASSEMBLED) from Luz 11:26 (11:26) to GrandCentral 12:42 (12:42) is now assembled. 
+10:57 Train [106] (ASSEMBLED) from Shinjuku 11:27 (11:27) to GrandCentral 12:11 (12:11) is now assembled. 
+10:58 Train [8] (RUNNING) from GrandCentral 10:58 (10:58) to Liege-Guillemins 12:33 (12:33) started on time.
+11:00 Train [73] (ARRIVED) from MilanoCentrale 09:44 (11:00) speed = 124 km/h arrived on time.
+11:01 Train [41] (RUNNING) from ST.Pancras 11:01 (11:01) to GrandCentral 12:21 (12:21) started on time.
+11:01 Train [121] (ASSEMBLED) from Hauptbahnhof 09:11 (11:31) to Shinjuku 09:42 (12:02) could not be assembled. Trying again in 10 minutes. 
+11:03 Train [74] (READY) from MilanoCentrale 11:13 (11:13) to GrandCentral 11:39 (11:39) is ready for departure. 
+11:03 Train [89] (FINISHED) from Luz 10:43 (10:43) speed = 124 km/h has been dissambled.
+11:10 Train [40] (ARRIVED) from ST.Pancras 09:27 (11:10) speed = 131 km/h arrived on time.
+11:11 Train [121] (ASSEMBLED) from Hauptbahnhof 09:11 (11:41) to Shinjuku 09:42 (12:12) is now assembled. 
+11:13 Train [74] (RUNNING) from MilanoCentrale 11:13 (11:13) to GrandCentral 11:39 (11:39) started on time.
+11:16 Train [90] (READY) from Luz 11:26 (11:26) to GrandCentral 12:42 (12:42) is ready for departure. 
+11:17 Train [106] (READY) from Shinjuku 11:27 (11:27) to GrandCentral 12:11 (12:11) is ready for departure. 
+11:19 Train [25] (ASSEMBLED) from Liege-Guillemins 11:49 (11:49) to ST.Pancras 13:02 (13:02) is now assembled. 
+11:20 Train [73] (FINISHED) from MilanoCentrale 11:00 (11:00) speed = 124 km/h has been dissambled.
+11:26 Train [90] (RUNNING) from Luz 11:26 (11:26) to GrandCentral 12:42 (12:42) started on time.
+11:27 Train [106] (RUNNING) from Shinjuku 11:27 (11:27) to GrandCentral 12:11 (12:11) started on time.
+11:30 Train [40] (FINISHED) from ST.Pancras 11:10 (11:10) speed = 131 km/h has been dissambled.
+11:31 Train [121] (READY) from Hauptbahnhof 09:11 (11:41) to Shinjuku 09:42 (12:12) is ready for departure. 
+11:35 Train [57] (ARRIVED) from Dunedin 10:43 (11:35) speed = 126 km/h arrived on time.
+11:36 Train [123] (ASSEMBLED) from Hauptbahnhof 12:06 (12:06) to Liege-Guillemins 12:54 (12:54) is now assembled. 
+11:39 Train [74] (ARRIVED) from MilanoCentrale 11:13 (11:39) speed = 138 km/h arrived on time.
+11:39 Train [25] (READY) from Liege-Guillemins 11:49 (11:49) to ST.Pancras 13:02 (13:02) is ready for departure. 
+11:41 Train [121] (RUNNING) from Hauptbahnhof 09:11 (11:41) to Shinjuku 09:42 (12:12) started. Is 02:30 minutes late.
+11:43 Train [58] (ASSEMBLED) from Dunedin 12:13 (12:13) to Liege-Guillemins 12:45 (12:45) is now assembled. 
+11:49 Train [9] (ASSEMBLED) from GrandCentral 12:19 (12:19) to ST.Pancras 13:38 (13:38) is now assembled. 
+11:49 Train [122] (ARRIVED) from Hauptbahnhof 10:43 (11:49) speed = 131 km/h arrived on time.
+11:49 Train [25] (RUNNING) from Liege-Guillemins 11:49 (11:49) to ST.Pancras 13:02 (13:02) started on time.
+11:55 Train [57] (FINISHED) from Dunedin 11:35 (11:35) speed = 126 km/h has been dissambled.
+11:56 Train [123] (READY) from Hauptbahnhof 12:06 (12:06) to Liege-Guillemins 12:54 (12:54) is ready for departure. 
+11:59 Train [74] (FINISHED) from MilanoCentrale 11:39 (11:39) speed = 138 km/h has been dissambled.
+11:59 Train [75] (ASSEMBLED) from MilanoCentrale 12:29 (12:29) to Liege-Guillemins 13:43 (13:43) is now assembled. 
+12:03 Train [58] (READY) from Dunedin 12:13 (12:13) to Liege-Guillemins 12:45 (12:45) is ready for departure. 
+12:04 Train [42] (ASSEMBLED) from ST.Pancras 12:34 (12:34) to Liege-Guillemins 13:51 (13:51) is now assembled. 
+12:05 Train [121] (ARRIVED) from Hauptbahnhof 09:11 (12:05) average speed = 180 km/h arrived and was 02:23 minutes late.
+12:06 Train [123] (RUNNING) from Hauptbahnhof 12:06 (12:06) to Liege-Guillemins 12:54 (12:54) started on time.
+12:06 Train [24] (ARRIVED) from Liege-Guillemins 10:33 (12:06) speed = 122 km/h arrived on time.
+12:09 Train [122] (FINISHED) from Hauptbahnhof 11:49 (11:49) speed = 131 km/h has been dissambled.
+12:09 Train [9] (READY) from GrandCentral 12:19 (12:19) to ST.Pancras 13:38 (13:38) is ready for departure. 
+12:11 Train [106] (ARRIVED) from Shinjuku 11:27 (12:11) speed = 122 km/h arrived on time.
+12:13 Train [107] (ASSEMBLED) from Shinjuku 12:43 (12:43) to Liege-Guillemins 13:34 (13:34) is now assembled. 
+12:13 Train [58] (RUNNING) from Dunedin 12:13 (12:13) to Liege-Guillemins 12:45 (12:45) started on time.
+12:18 Train [91] (ASSEMBLED) from Luz 12:48 (12:48) to Liege-Guillemins 13:00 (13:00) could not be assembled. Trying again in 10 minutes. 
+12:19 Train [75] (READY) from MilanoCentrale 12:29 (12:29) to Liege-Guillemins 13:43 (13:43) is ready for departure. 
+12:19 Train [9] (RUNNING) from GrandCentral 12:19 (12:19) to ST.Pancras 13:38 (13:38) started on time.
+12:21 Train [41] (ARRIVED) from ST.Pancras 11:01 (12:21) speed = 127 km/h arrived on time.
+12:24 Train [42] (READY) from ST.Pancras 12:34 (12:34) to Liege-Guillemins 13:51 (13:51) is ready for departure. 
+12:25 Train [121] (FINISHED) from Hauptbahnhof 09:42 (12:05) speed = 180 km/h has been dissambled.
+12:26 Train [24] (FINISHED) from Liege-Guillemins 12:06 (12:06) speed = 122 km/h has been dissambled.
+12:28 Train [91] (ASSEMBLED) from Luz 12:48 (12:58) to Liege-Guillemins 13:00 (13:10) could not be assembled. Trying again in 10 minutes. 
+12:29 Train [75] (RUNNING) from MilanoCentrale 12:29 (12:29) to Liege-Guillemins 13:43 (13:43) started on time.
+12:31 Train [106] (FINISHED) from Shinjuku 12:11 (12:11) speed = 122 km/h has been dissambled.
+12:33 Train [107] (READY) from Shinjuku 12:43 (12:43) to Liege-Guillemins 13:34 (13:34) is ready for departure. 
+12:33 Train [8] (ARRIVED) from GrandCentral 10:58 (12:33) speed = 119 km/h arrived on time.
+12:34 Train [42] (RUNNING) from ST.Pancras 12:34 (12:34) to Liege-Guillemins 13:51 (13:51) started on time.
+12:38 Train [91] (ASSEMBLED) from Luz 12:48 (13:08) to Liege-Guillemins 13:00 (13:20) could not be assembled. Trying again in 10 minutes. 
+12:40 Train [26] (ASSEMBLED) from Liege-Guillemins 13:10 (13:10) to Dunedin 13:46 (13:46) is now assembled. 
+12:41 Train [41] (FINISHED) from ST.Pancras 12:21 (12:21) speed = 127 km/h has been dissambled.
+12:42 Train [90] (ARRIVED) from Luz 11:26 (12:42) speed = 138 km/h arrived on time.
+12:43 Train [107] (RUNNING) from Shinjuku 12:43 (12:43) to Liege-Guillemins 13:34 (13:34) started on time.
+12:45 Train [58] (ARRIVED) from Dunedin 12:13 (12:45) speed = 140 km/h arrived on time.
+12:48 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (13:18) to ST.Pancras 14:55 (14:55) could not be assembled. Trying again in 10 minutes. 
+12:48 Train [91] (ASSEMBLED) from Luz 12:48 (13:18) to Liege-Guillemins 13:00 (13:30) could not be assembled. Trying again in 10 minutes. 
+12:53 Train [8] (FINISHED) from GrandCentral 12:33 (12:33) speed = 119 km/h has been dissambled.
+12:54 Train [123] (ARRIVED) from Hauptbahnhof 12:06 (12:54) speed = 137 km/h arrived on time.
+12:58 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (13:28) to ST.Pancras 14:55 (15:05) could not be assembled. Trying again in 10 minutes. 
+12:58 Train [91] (ASSEMBLED) from Luz 12:48 (13:28) to Liege-Guillemins 13:00 (13:40) could not be assembled. Trying again in 10 minutes. 
+13:00 Train [26] (READY) from Liege-Guillemins 13:10 (13:10) to Dunedin 13:46 (13:46) is ready for departure. 
+13:02 Train [25] (ARRIVED) from Liege-Guillemins 11:49 (13:02) speed = 133 km/h arrived on time.
+13:02 Train [90] (FINISHED) from Luz 12:42 (12:42) speed = 138 km/h has been dissambled.
+13:05 Train [58] (FINISHED) from Dunedin 12:45 (12:45) speed = 140 km/h has been dissambled.
+13:08 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (13:38) to ST.Pancras 14:55 (15:15) could not be assembled. Trying again in 10 minutes. 
+13:08 Train [91] (ASSEMBLED) from Luz 12:48 (13:38) to Liege-Guillemins 13:00 (13:50) could not be assembled. Trying again in 10 minutes. 
+13:09 Train [59] (ASSEMBLED) from Dunedin 13:39 (13:39) to ST.Pancras 14:46 (14:46) is now assembled. 
+13:10 Train [26] (RUNNING) from Liege-Guillemins 13:10 (13:10) to Dunedin 13:46 (13:46) started on time.
+13:14 Train [123] (FINISHED) from Hauptbahnhof 12:54 (12:54) speed = 137 km/h has been dissambled.
+13:15 Train [10] (ASSEMBLED) from GrandCentral 13:45 (13:45) to Dunedin 14:32 (14:32) is now assembled. 
+13:16 Train [43] (ASSEMBLED) from ST.Pancras 13:46 (13:46) to Dunedin 14:51 (14:51) is now assembled. 
+13:18 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (13:48) to ST.Pancras 14:55 (15:25) could not be assembled. Trying again in 10 minutes. 
+13:18 Train [91] (ASSEMBLED) from Luz 12:48 (13:48) to Liege-Guillemins 13:00 (14:00) could not be assembled. Trying again in 10 minutes. 
+13:20 Train [76] (ASSEMBLED) from MilanoCentrale 13:50 (13:50) to ST.Pancras 14:37 (14:37) is now assembled. 
+13:22 Train [25] (FINISHED) from Liege-Guillemins 13:02 (13:02) speed = 133 km/h has been dissambled.
+13:28 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (13:58) to ST.Pancras 14:55 (15:35) could not be assembled. Trying again in 10 minutes. 
+13:28 Train [91] (ASSEMBLED) from Luz 12:48 (13:58) to Liege-Guillemins 13:00 (14:10) could not be assembled. Trying again in 10 minutes. 
+13:29 Train [59] (READY) from Dunedin 13:39 (13:39) to ST.Pancras 14:46 (14:46) is ready for departure. 
+13:32 Train [108] (ASSEMBLED) from Shinjuku 14:02 (14:02) to ST.Pancras 15:12 (15:12) is now assembled. 
+13:34 Train [107] (ARRIVED) from Shinjuku 12:43 (13:34) speed = 125 km/h arrived on time.
+13:35 Train [10] (READY) from GrandCentral 13:45 (13:45) to Dunedin 14:32 (14:32) is ready for departure. 
+13:36 Train [43] (READY) from ST.Pancras 13:46 (13:46) to Dunedin 14:51 (14:51) is ready for departure. 
+13:38 Train [9] (ARRIVED) from GrandCentral 12:19 (13:38) speed = 129 km/h arrived on time.
+13:38 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (14:08) to ST.Pancras 14:55 (15:45) could not be assembled. Trying again in 10 minutes. 
+13:38 Train [91] (ASSEMBLED) from Luz 12:48 (14:08) to Liege-Guillemins 13:00 (14:20) could not be assembled. Trying again in 10 minutes. 
+13:39 Train [59] (RUNNING) from Dunedin 13:39 (13:39) to ST.Pancras 14:46 (14:46) started on time.
+13:40 Train [76] (READY) from MilanoCentrale 13:50 (13:50) to ST.Pancras 14:37 (14:37) is ready for departure. 
+13:43 Train [75] (ARRIVED) from MilanoCentrale 12:29 (13:43) speed = 125 km/h arrived on time.
+13:45 Train [10] (RUNNING) from GrandCentral 13:45 (13:45) to Dunedin 14:32 (14:32) started on time.
+13:46 Train [26] (ARRIVED) from Liege-Guillemins 13:10 (13:46) speed = 125 km/h arrived on time.
+13:46 Train [43] (RUNNING) from ST.Pancras 13:46 (13:46) to Dunedin 14:51 (14:51) started on time.
+13:48 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (14:18) to ST.Pancras 14:55 (15:55) could not be assembled. Trying again in 10 minutes. 
+13:48 Train [91] (ASSEMBLED) from Luz 12:48 (14:18) to Liege-Guillemins 13:00 (14:30) could not be assembled. Trying again in 10 minutes. 
+13:50 Train [76] (RUNNING) from MilanoCentrale 13:50 (13:50) to ST.Pancras 14:37 (14:37) started on time.
+13:51 Train [42] (ARRIVED) from ST.Pancras 12:34 (13:51) speed = 126 km/h arrived on time.
+13:51 Train [92] (ASSEMBLED) from Luz 14:21 (14:21) to ST.Pancras 15:43 (15:43) is now assembled. 
+13:52 Train [108] (READY) from Shinjuku 14:02 (14:02) to ST.Pancras 15:12 (15:12) is ready for departure. 
+13:54 Train [107] (FINISHED) from Shinjuku 13:34 (13:34) speed = 125 km/h has been dissambled.
+13:58 Train [9] (FINISHED) from GrandCentral 13:38 (13:38) speed = 129 km/h has been dissambled.
+13:58 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (14:28) to ST.Pancras 14:55 (16:05) could not be assembled. Trying again in 10 minutes. 
+13:58 Train [91] (ASSEMBLED) from Luz 12:48 (14:28) to Liege-Guillemins 13:00 (14:40) could not be assembled. Trying again in 10 minutes. 
+14:02 Train [125] (ASSEMBLED) from Hauptbahnhof 14:32 (14:32) to Dunedin 15:07 (15:07) is now assembled. 
+14:02 Train [108] (RUNNING) from Shinjuku 14:02 (14:02) to ST.Pancras 15:12 (15:12) started on time.
+14:03 Train [75] (FINISHED) from MilanoCentrale 13:43 (13:43) speed = 125 km/h has been dissambled.
+14:04 Train [27] (ASSEMBLED) from Liege-Guillemins 14:34 (14:34) to MilanoCentrale 15:46 (15:46) is now assembled. 
+14:06 Train [26] (FINISHED) from Liege-Guillemins 13:46 (13:46) speed = 125 km/h has been dissambled.
+14:08 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (14:38) to ST.Pancras 14:55 (16:15) could not be assembled. Trying again in 10 minutes. 
+14:08 Train [91] (ASSEMBLED) from Luz 12:48 (14:38) to Liege-Guillemins 13:00 (14:50) could not be assembled. Trying again in 10 minutes. 
+14:11 Train [92] (READY) from Luz 14:21 (14:21) to ST.Pancras 15:43 (15:43) is ready for departure. 
+14:11 Train [42] (FINISHED) from ST.Pancras 13:51 (13:51) speed = 126 km/h has been dissambled.
+14:18 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (14:48) to ST.Pancras 14:55 (16:25) could not be assembled. Trying again in 10 minutes. 
+14:18 Train [91] (ASSEMBLED) from Luz 12:48 (14:48) to Liege-Guillemins 13:00 (15:00) could not be assembled. Trying again in 10 minutes. 
+14:21 Train [92] (RUNNING) from Luz 14:21 (14:21) to ST.Pancras 15:43 (15:43) started on time.
+14:22 Train [125] (READY) from Hauptbahnhof 14:32 (14:32) to Dunedin 15:07 (15:07) is ready for departure. 
+14:24 Train [27] (READY) from Liege-Guillemins 14:34 (14:34) to MilanoCentrale 15:46 (15:46) is ready for departure. 
+14:27 Train [44] (ASSEMBLED) from ST.Pancras 14:57 (14:57) to MilanoCentrale 15:47 (15:47) is now assembled. 
+14:28 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (14:58) to ST.Pancras 14:55 (16:35) could not be assembled. Trying again in 10 minutes. 
+14:28 Train [91] (ASSEMBLED) from Luz 12:48 (14:58) to Liege-Guillemins 13:00 (15:10) could not be assembled. Trying again in 10 minutes. 
+14:30 Train [11] (ASSEMBLED) from GrandCentral 15:00 (15:00) to MilanoCentrale 15:28 (15:28) is now assembled. 
+14:30 Train [60] (ASSEMBLED) from Dunedin 15:00 (15:00) to MilanoCentrale 15:40 (15:40) is now assembled. 
+14:32 Train [125] (RUNNING) from Hauptbahnhof 14:32 (14:32) to Dunedin 15:07 (15:07) started on time.
+14:32 Train [10] (ARRIVED) from GrandCentral 13:45 (14:32) speed = 140 km/h arrived on time.
+14:34 Train [27] (RUNNING) from Liege-Guillemins 14:34 (14:34) to MilanoCentrale 15:46 (15:46) started on time.
+14:37 Train [76] (ARRIVED) from MilanoCentrale 13:50 (14:37) speed = 140 km/h arrived on time.
+14:38 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (15:08) to ST.Pancras 14:55 (16:45) could not be assembled. Trying again in 10 minutes. 
+14:38 Train [91] (ASSEMBLED) from Luz 12:48 (15:08) to Liege-Guillemins 13:00 (15:20) could not be assembled. Trying again in 10 minutes. 
+14:46 Train [59] (ARRIVED) from Dunedin 13:39 (14:46) speed = 129 km/h arrived on time.
+14:47 Train [44] (READY) from ST.Pancras 14:57 (14:57) to MilanoCentrale 15:47 (15:47) is ready for departure. 
+14:48 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (15:18) to ST.Pancras 14:55 (16:55) could not be assembled. Trying again in 10 minutes. 
+14:48 Train [91] (ASSEMBLED) from Luz 12:48 (15:18) to Liege-Guillemins 13:00 (15:30) could not be assembled. Trying again in 10 minutes. 
+14:50 Train [11] (READY) from GrandCentral 15:00 (15:00) to MilanoCentrale 15:28 (15:28) is ready for departure. 
+14:50 Train [60] (READY) from Dunedin 15:00 (15:00) to MilanoCentrale 15:40 (15:40) is ready for departure. 
+14:51 Train [43] (ARRIVED) from ST.Pancras 13:46 (14:51) speed = 133 km/h arrived on time.
+14:52 Train [10] (FINISHED) from GrandCentral 14:32 (14:32) speed = 140 km/h has been dissambled.
+14:53 Train [109] (ASSEMBLED) from Shinjuku 15:23 (15:23) to Dunedin 15:36 (15:36) is now assembled. 
+14:53 Train [77] (ASSEMBLED) from MilanoCentrale 15:23 (15:23) to Dunedin 16:01 (16:01) is now assembled. 
+14:57 Train [44] (RUNNING) from ST.Pancras 14:57 (14:57) to MilanoCentrale 15:47 (15:47) started on time.
+14:57 Train [76] (FINISHED) from MilanoCentrale 14:37 (14:37) speed = 140 km/h has been dissambled.
+14:58 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (15:28) to ST.Pancras 14:55 (17:05) could not be assembled. Trying again in 10 minutes. 
+14:58 Train [91] (ASSEMBLED) from Luz 12:48 (15:28) to Liege-Guillemins 13:00 (15:40) could not be assembled. Trying again in 10 minutes. 
+15:00 Train [60] (RUNNING) from Dunedin 15:00 (15:00) to MilanoCentrale 15:40 (15:40) started on time.
+15:00 Train [11] (RUNNING) from GrandCentral 15:00 (15:00) to MilanoCentrale 15:28 (15:28) started on time.
+15:06 Train [59] (FINISHED) from Dunedin 14:46 (14:46) speed = 129 km/h has been dissambled.
+15:07 Train [125] (ARRIVED) from Hauptbahnhof 14:32 (15:07) speed = 138 km/h arrived on time.
+15:08 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (15:38) to ST.Pancras 14:55 (17:15) could not be assembled. Trying again in 10 minutes. 
+15:08 Train [91] (ASSEMBLED) from Luz 12:48 (15:38) to Liege-Guillemins 13:00 (15:50) could not be assembled. Trying again in 10 minutes. 
+15:11 Train [43] (FINISHED) from ST.Pancras 14:51 (14:51) speed = 133 km/h has been dissambled.
+15:12 Train [108] (ARRIVED) from Shinjuku 14:02 (15:12) speed = 137 km/h arrived on time.
+15:13 Train [109] (READY) from Shinjuku 15:23 (15:23) to Dunedin 15:36 (15:36) is ready for departure. 
+15:13 Train [77] (READY) from MilanoCentrale 15:23 (15:23) to Dunedin 16:01 (16:01) is ready for departure. 
+15:15 Train [93] (ASSEMBLED) from Luz 15:45 (15:45) to Dunedin 16:16 (16:16) is now assembled. 
+15:18 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (15:48) to ST.Pancras 14:55 (17:25) could not be assembled. Trying again in 10 minutes. 
+15:18 Train [91] (ASSEMBLED) from Luz 12:48 (15:48) to Liege-Guillemins 13:00 (16:00) could not be assembled. Trying again in 10 minutes. 
+15:23 Train [109] (RUNNING) from Shinjuku 15:23 (15:23) to Dunedin 15:36 (15:36) started on time.
+15:23 Train [77] (RUNNING) from MilanoCentrale 15:23 (15:23) to Dunedin 16:01 (16:01) started on time.
+15:27 Train [125] (FINISHED) from Hauptbahnhof 15:07 (15:07) speed = 138 km/h has been dissambled.
+15:28 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (15:58) to ST.Pancras 14:55 (17:35) could not be assembled. Trying again in 10 minutes. 
+15:28 Train [91] (ASSEMBLED) from Luz 12:48 (15:58) to Liege-Guillemins 13:00 (16:10) could not be assembled. Trying again in 10 minutes. 
+15:28 Train [126] (ASSEMBLED) from Hauptbahnhof 15:58 (15:58) to MilanoCentrale 17:12 (17:12) is now assembled. 
+15:28 Train [11] (ARRIVED) from GrandCentral 15:00 (15:28) speed = 128 km/h arrived on time.
+15:32 Train [108] (FINISHED) from Shinjuku 15:12 (15:12) speed = 137 km/h has been dissambled.
+15:32 Train [28] (ASSEMBLED) from Liege-Guillemins 16:02 (16:02) to Luz 16:15 (16:15) is now assembled. 
+15:35 Train [93] (READY) from Luz 15:45 (15:45) to Dunedin 16:16 (16:16) is ready for departure. 
+15:36 Train [109] (ARRIVED) from Shinjuku 15:23 (15:36) speed = 147 km/h arrived on time.
+15:38 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (16:08) to ST.Pancras 14:55 (17:45) could not be assembled. Trying again in 10 minutes. 
+15:38 Train [91] (ASSEMBLED) from Luz 12:48 (16:08) to Liege-Guillemins 13:00 (16:20) could not be assembled. Trying again in 10 minutes. 
+15:40 Train [60] (ARRIVED) from Dunedin 15:00 (15:40) speed = 135 km/h arrived on time.
+15:43 Train [92] (ARRIVED) from Luz 14:21 (15:43) speed = 130 km/h arrived on time.
+15:45 Train [93] (RUNNING) from Luz 15:45 (15:45) to Dunedin 16:16 (16:16) started on time.
+15:45 Train [61] (ASSEMBLED) from Dunedin 16:15 (16:15) to Luz 16:43 (16:43) is now assembled. 
+15:46 Train [27] (ARRIVED) from Liege-Guillemins 14:34 (15:46) speed = 129 km/h arrived on time.
+15:47 Train [44] (ARRIVED) from ST.Pancras 14:57 (15:47) speed = 132 km/h arrived on time.
+15:48 Train [11] (FINISHED) from GrandCentral 15:28 (15:28) speed = 128 km/h has been dissambled.
+15:48 Train [126] (READY) from Hauptbahnhof 15:58 (15:58) to MilanoCentrale 17:12 (17:12) is ready for departure. 
+15:48 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (16:18) to ST.Pancras 14:55 (17:55) could not be assembled. Trying again in 10 minutes. 
+15:48 Train [91] (ASSEMBLED) from Luz 12:48 (16:18) to Liege-Guillemins 13:00 (16:30) could not be assembled. Trying again in 10 minutes. 
+15:52 Train [28] (READY) from Liege-Guillemins 16:02 (16:02) to Luz 16:15 (16:15) is ready for departure. 
+15:56 Train [109] (FINISHED) from Shinjuku 15:36 (15:36) speed = 147 km/h has been dissambled.
+15:57 Train [45] (ASSEMBLED) from ST.Pancras 16:27 (16:27) to Luz 17:45 (17:45) is now assembled. 
+15:58 Train [126] (RUNNING) from Hauptbahnhof 15:58 (15:58) to MilanoCentrale 17:12 (17:12) started on time.
+15:58 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (16:28) to ST.Pancras 14:55 (18:05) could not be assembled. Trying again in 10 minutes. 
+15:58 Train [91] (ASSEMBLED) from Luz 12:48 (16:28) to Liege-Guillemins 13:00 (16:40) could not be assembled. Trying again in 10 minutes. 
+15:59 Train [12] (ASSEMBLED) from GrandCentral 16:29 (16:29) to Luz 17:46 (17:46) is now assembled. 
+16:00 Train [60] (FINISHED) from Dunedin 15:40 (15:40) speed = 135 km/h has been dissambled.
+16:01 Train [77] (ARRIVED) from MilanoCentrale 15:23 (16:01) speed = 142 km/h arrived on time.
+16:02 Train [28] (RUNNING) from Liege-Guillemins 16:02 (16:02) to Luz 16:15 (16:15) started on time.
+16:03 Train [92] (FINISHED) from Luz 15:43 (15:43) speed = 130 km/h has been dissambled.
+16:05 Train [61] (READY) from Dunedin 16:15 (16:15) to Luz 16:43 (16:43) is ready for departure. 
+16:06 Train [27] (FINISHED) from Liege-Guillemins 15:46 (15:46) speed = 129 km/h has been dissambled.
+16:07 Train [44] (FINISHED) from ST.Pancras 15:47 (15:47) speed = 132 km/h has been dissambled.
+16:08 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (16:38) to ST.Pancras 14:55 (18:15) could not be assembled. Trying again in 10 minutes. 
+16:08 Train [91] (ASSEMBLED) from Luz 12:48 (16:38) to Liege-Guillemins 13:00 (16:50) could not be assembled. Trying again in 10 minutes. 
+16:09 Train [78] (ASSEMBLED) from MilanoCentrale 16:39 (16:39) to Luz 17:49 (17:49) is now assembled. 
+16:15 Train [28] (ARRIVED) from Liege-Guillemins 16:02 (16:15) speed = 138 km/h arrived on time.
+16:15 Train [61] (RUNNING) from Dunedin 16:15 (16:15) to Luz 16:43 (16:43) started on time.
+16:16 Train [93] (ARRIVED) from Luz 15:45 (16:16) speed = 125 km/h arrived on time.
+16:17 Train [45] (READY) from ST.Pancras 16:27 (16:27) to Luz 17:45 (17:45) is ready for departure. 
+16:18 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (16:48) to ST.Pancras 14:55 (18:25) could not be assembled. Trying again in 10 minutes. 
+16:18 Train [91] (ASSEMBLED) from Luz 12:48 (16:48) to Liege-Guillemins 13:00 (17:00) could not be assembled. Trying again in 10 minutes. 
+16:19 Train [12] (READY) from GrandCentral 16:29 (16:29) to Luz 17:46 (17:46) is ready for departure. 
+16:21 Train [77] (FINISHED) from MilanoCentrale 16:01 (16:01) speed = 142 km/h has been dissambled.
+16:22 Train [110] (ASSEMBLED) from Shinjuku 16:52 (16:52) to MilanoCentrale 17:33 (17:33) is now assembled. 
+16:27 Train [45] (RUNNING) from ST.Pancras 16:27 (16:27) to Luz 17:45 (17:45) started on time.
+16:28 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (16:58) to ST.Pancras 14:55 (18:35) could not be assembled. Trying again in 10 minutes. 
+16:28 Train [91] (ASSEMBLED) from Luz 12:48 (16:58) to Liege-Guillemins 13:00 (17:10) could not be assembled. Trying again in 10 minutes. 
+16:29 Train [78] (READY) from MilanoCentrale 16:39 (16:39) to Luz 17:49 (17:49) is ready for departure. 
+16:29 Train [12] (RUNNING) from GrandCentral 16:29 (16:29) to Luz 17:46 (17:46) started on time.
+16:33 Train [94] (ASSEMBLED) from Luz 17:03 (17:03) to MilanoCentrale 18:19 (18:19) could not be assembled. Trying again in 10 minutes. 
+16:35 Train [28] (FINISHED) from Liege-Guillemins 16:15 (16:15) speed = 138 km/h has been dissambled.
+16:36 Train [93] (FINISHED) from Luz 16:16 (16:16) speed = 125 km/h has been dissambled.
+16:38 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (17:08) to ST.Pancras 14:55 (18:45) could not be assembled. Trying again in 10 minutes. 
+16:38 Train [91] (ASSEMBLED) from Luz 12:48 (17:08) to Liege-Guillemins 13:00 (17:20) could not be assembled. Trying again in 10 minutes. 
+16:39 Train [78] (RUNNING) from MilanoCentrale 16:39 (16:39) to Luz 17:49 (17:49) started on time.
+16:42 Train [110] (READY) from Shinjuku 16:52 (16:52) to MilanoCentrale 17:33 (17:33) is ready for departure. 
+16:43 Train [61] (ARRIVED) from Dunedin 16:15 (16:43) speed = 139 km/h arrived on time.
+16:43 Train [94] (ASSEMBLED) from Luz 17:03 (17:13) to MilanoCentrale 18:19 (18:29) is now assembled. 
+16:46 Train [127] (ASSEMBLED) from Hauptbahnhof 17:16 (17:16) to Luz 17:54 (17:54) could not be assembled. Trying again in 10 minutes. 
+16:48 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (17:18) to ST.Pancras 14:55 (18:55) could not be assembled. Trying again in 10 minutes. 
+16:48 Train [91] (ASSEMBLED) from Luz 12:48 (17:18) to Liege-Guillemins 13:00 (17:30) could not be assembled. Trying again in 10 minutes. 
+16:52 Train [110] (RUNNING) from Shinjuku 16:52 (16:52) to MilanoCentrale 17:33 (17:33) started on time.
+16:56 Train [127] (ASSEMBLED) from Hauptbahnhof 17:16 (17:26) to Luz 17:54 (18:04) could not be assembled. Trying again in 10 minutes. 
+16:58 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (17:28) to ST.Pancras 14:55 (19:05) could not be assembled. Trying again in 10 minutes. 
+16:58 Train [91] (ASSEMBLED) from Luz 12:48 (17:28) to Liege-Guillemins 13:00 (17:40) could not be assembled. Trying again in 10 minutes. 
+17:03 Train [61] (FINISHED) from Dunedin 16:43 (16:43) speed = 139 km/h has been dissambled.
+17:03 Train [94] (READY) from Luz 17:03 (17:13) to MilanoCentrale 18:19 (18:29) is ready for departure. 
+17:03 Train [29] (ASSEMBLED) from Liege-Guillemins 17:33 (17:33) to Shinjuku 18:20 (18:20) is now assembled. 
+17:06 Train [127] (ASSEMBLED) from Hauptbahnhof 17:16 (17:36) to Luz 17:54 (18:14) could not be assembled. Trying again in 10 minutes. 
+17:08 Train [46] (ASSEMBLED) from ST.Pancras 17:38 (17:38) to Shinjuku 18:49 (18:49) is now assembled. 
+17:08 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (17:38) to ST.Pancras 14:55 (19:15) could not be assembled. Trying again in 10 minutes. 
+17:08 Train [91] (ASSEMBLED) from Luz 12:48 (17:38) to Liege-Guillemins 13:00 (17:50) is now assembled. 
+17:11 Train [13] (ASSEMBLED) from GrandCentral 17:41 (17:41) to Shinjuku 18:23 (18:23) is now assembled. 
+17:12 Train [126] (ARRIVED) from Hauptbahnhof 15:58 (17:12) speed = 128 km/h arrived on time.
+17:13 Train [94] (RUNNING) from Luz 17:03 (17:13) to MilanoCentrale 18:19 (18:29) started. Is 00:10 minutes late.
+17:16 Train [127] (ASSEMBLED) from Hauptbahnhof 17:16 (17:46) to Luz 17:54 (18:24) could not be assembled. Trying again in 10 minutes. 
+17:18 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (17:48) to ST.Pancras 14:55 (19:25) could not be assembled. Trying again in 10 minutes. 
+17:19 Train [62] (ASSEMBLED) from Dunedin 17:49 (17:49) to Shinjuku 18:04 (18:04) is now assembled. 
+17:23 Train [29] (READY) from Liege-Guillemins 17:33 (17:33) to Shinjuku 18:20 (18:20) is ready for departure. 
+17:26 Train [127] (ASSEMBLED) from Hauptbahnhof 17:16 (17:56) to Luz 17:54 (18:34) could not be assembled. Trying again in 10 minutes. 
+17:28 Train [46] (READY) from ST.Pancras 17:38 (17:38) to Shinjuku 18:49 (18:49) is ready for departure. 
+17:28 Train [91] (READY) from Luz 12:48 (17:38) to Liege-Guillemins 13:00 (17:50) is ready for departure. 
+17:28 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (17:58) to ST.Pancras 14:55 (19:35) could not be assembled. Trying again in 10 minutes. 
+17:31 Train [13] (READY) from GrandCentral 17:41 (17:41) to Shinjuku 18:23 (18:23) is ready for departure. 
+17:32 Train [126] (FINISHED) from Hauptbahnhof 17:12 (17:12) speed = 128 km/h has been dissambled.
+17:33 Train [29] (RUNNING) from Liege-Guillemins 17:33 (17:33) to Shinjuku 18:20 (18:20) started on time.
+17:33 Train [110] (ARRIVED) from Shinjuku 16:52 (17:33) speed = 124 km/h arrived on time.
+17:34 Train [79] (ASSEMBLED) from MilanoCentrale 18:04 (18:04) to Shinjuku 18:44 (18:44) is now assembled. 
+17:34 Train [111] (ASSEMBLED) from Shinjuku 18:04 (18:04) to Luz 18:43 (18:43) is now assembled. 
+17:36 Train [127] (ASSEMBLED) from Hauptbahnhof 17:16 (18:06) to Luz 17:54 (18:44) could not be assembled. Trying again in 10 minutes. 
+17:38 Train [46] (RUNNING) from ST.Pancras 17:38 (17:38) to Shinjuku 18:49 (18:49) started on time.
+17:38 Train [91] (RUNNING) from Luz 12:48 (17:38) to Liege-Guillemins 13:00 (17:50) started. Is 04:50 minutes late.
+17:38 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (18:08) to ST.Pancras 14:55 (19:45) could not be assembled. Trying again in 10 minutes. 
+17:39 Train [62] (READY) from Dunedin 17:49 (17:49) to Shinjuku 18:04 (18:04) is ready for departure. 
+17:41 Train [13] (RUNNING) from GrandCentral 17:41 (17:41) to Shinjuku 18:23 (18:23) started on time.
+17:45 Train [45] (ARRIVED) from ST.Pancras 16:27 (17:45) speed = 137 km/h arrived on time.
+17:46 Train [12] (ARRIVED) from GrandCentral 16:29 (17:46) speed = 136 km/h arrived on time.
+17:46 Train [127] (ASSEMBLED) from Hauptbahnhof 17:16 (18:16) to Luz 17:54 (18:54) could not be assembled. Trying again in 10 minutes. 
+17:47 Train [91] (ARRIVED) from Luz 12:48 (17:47) average speed = 200 km/h arrived and was 04:47 minutes late.
+17:48 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (18:18) to ST.Pancras 14:55 (19:55) could not be assembled. Trying again in 10 minutes. 
+17:49 Train [78] (ARRIVED) from MilanoCentrale 16:39 (17:49) speed = 133 km/h arrived on time.
+17:49 Train [62] (RUNNING) from Dunedin 17:49 (17:49) to Shinjuku 18:04 (18:04) started on time.
+17:53 Train [110] (FINISHED) from Shinjuku 17:33 (17:33) speed = 124 km/h has been dissambled.
+17:54 Train [79] (READY) from MilanoCentrale 18:04 (18:04) to Shinjuku 18:44 (18:44) is ready for departure. 
+17:54 Train [111] (READY) from Shinjuku 18:04 (18:04) to Luz 18:43 (18:43) is ready for departure. 
+17:56 Train [127] (ASSEMBLED) from Hauptbahnhof 17:16 (18:26) to Luz 17:54 (19:04) could not be assembled. Trying again in 10 minutes. 
+17:58 Train [95] (ASSEMBLED) from Luz 18:28 (18:28) to Shinjuku 19:07 (19:07) is now assembled. 
+17:58 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (18:28) to ST.Pancras 14:55 (20:05) could not be assembled. Trying again in 10 minutes. 
+18:00 Train [128] (ASSEMBLED) from Hauptbahnhof 18:30 (18:30) to Shinjuku 19:01 (19:01) is now assembled. 
+18:04 Train [62] (ARRIVED) from Dunedin 17:49 (18:04) speed = 128 km/h arrived on time.
+18:04 Train [79] (RUNNING) from MilanoCentrale 18:04 (18:04) to Shinjuku 18:44 (18:44) started on time.
+18:04 Train [111] (RUNNING) from Shinjuku 18:04 (18:04) to Luz 18:43 (18:43) started on time.
+18:05 Train [45] (FINISHED) from ST.Pancras 17:45 (17:45) speed = 137 km/h has been dissambled.
+18:06 Train [12] (FINISHED) from GrandCentral 17:46 (17:46) speed = 136 km/h has been dissambled.
+18:06 Train [127] (ASSEMBLED) from Hauptbahnhof 17:16 (18:36) to Luz 17:54 (19:14) could not be assembled. Trying again in 10 minutes. 
+18:07 Train [91] (FINISHED) from Luz 13:00 (17:47) speed = 200 km/h has been dissambled.
+18:08 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (18:38) to ST.Pancras 14:55 (20:15) could not be assembled. Trying again in 10 minutes. 
+18:09 Train [78] (FINISHED) from MilanoCentrale 17:49 (17:49) speed = 133 km/h has been dissambled.
+18:16 Train [127] (ASSEMBLED) from Hauptbahnhof 17:16 (18:46) to Luz 17:54 (19:24) could not be assembled. Trying again in 10 minutes. 
+18:18 Train [95] (READY) from Luz 18:28 (18:28) to Shinjuku 19:07 (19:07) is ready for departure. 
+18:18 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (18:48) to ST.Pancras 14:55 (20:25) could not be assembled. Trying again in 10 minutes. 
+18:19 Train [94] (ARRIVED) from Luz 17:03 (18:19) speed = 141 km/h arrived on time.
+18:20 Train [128] (READY) from Hauptbahnhof 18:30 (18:30) to Shinjuku 19:01 (19:01) is ready for departure. 
+18:20 Train [29] (ARRIVED) from Liege-Guillemins 17:33 (18:20) speed = 136 km/h arrived on time.
+18:22 Train [47] (ASSEMBLED) from ST.Pancras 18:52 (18:52) to Hauptbahnhof 20:41 (20:41) is now assembled. 
+18:23 Train [13] (ARRIVED) from GrandCentral 17:41 (18:23) speed = 128 km/h arrived on time.
+18:24 Train [30] (ASSEMBLED) from Liege-Guillemins 18:54 (18:54) to Hauptbahnhof 19:44 (19:44) is now assembled. 
+18:24 Train [62] (FINISHED) from Dunedin 18:04 (18:04) speed = 128 km/h has been dissambled.
+18:26 Train [127] (ASSEMBLED) from Hauptbahnhof 17:16 (18:56) to Luz 17:54 (19:34) could not be assembled. Trying again in 10 minutes. 
+18:28 Train [95] (RUNNING) from Luz 18:28 (18:28) to Shinjuku 19:07 (19:07) started on time.
+18:28 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (18:58) to ST.Pancras 14:55 (20:35) could not be assembled. Trying again in 10 minutes. 
+18:30 Train [128] (RUNNING) from Hauptbahnhof 18:30 (18:30) to Shinjuku 19:01 (19:01) started on time.
+18:31 Train [63] (ASSEMBLED) from Dunedin 19:01 (19:01) to Hauptbahnhof 19:39 (19:39) is now assembled. 
+18:36 Train [127] (ASSEMBLED) from Hauptbahnhof 17:16 (19:06) to Luz 17:54 (19:44) could not be assembled. Trying again in 10 minutes. 
+18:38 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (19:08) to ST.Pancras 14:55 (20:45) could not be assembled. Trying again in 10 minutes. 
+18:39 Train [94] (FINISHED) from Luz 18:19 (18:19) speed = 141 km/h has been dissambled.
+18:40 Train [29] (FINISHED) from Liege-Guillemins 18:20 (18:20) speed = 136 km/h has been dissambled.
+18:42 Train [14] (ASSEMBLED) from GrandCentral 19:12 (19:12) to Hauptbahnhof 20:21 (20:21) is now assembled. 
+18:42 Train [47] (READY) from ST.Pancras 18:52 (18:52) to Hauptbahnhof 20:41 (20:41) is ready for departure. 
+18:43 Train [111] (ARRIVED) from Shinjuku 18:04 (18:43) speed = 136 km/h arrived on time.
+18:43 Train [13] (FINISHED) from GrandCentral 18:23 (18:23) speed = 128 km/h has been dissambled.
+18:44 Train [79] (ARRIVED) from MilanoCentrale 18:04 (18:44) speed = 127 km/h arrived on time.
+18:44 Train [30] (READY) from Liege-Guillemins 18:54 (18:54) to Hauptbahnhof 19:44 (19:44) is ready for departure. 
+18:45 Train [80] (ASSEMBLED) from MilanoCentrale 19:15 (19:15) to Hauptbahnhof 20:27 (20:27) is now assembled. 
+18:46 Train [127] (ASSEMBLED) from Hauptbahnhof 17:16 (19:16) to Luz 17:54 (19:54) could not be assembled. Trying again in 10 minutes. 
+18:48 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (19:18) to ST.Pancras 14:55 (20:55) could not be assembled. Trying again in 10 minutes. 
+18:49 Train [46] (ARRIVED) from ST.Pancras 17:38 (18:49) speed = 135 km/h arrived on time.
+18:51 Train [63] (READY) from Dunedin 19:01 (19:01) to Hauptbahnhof 19:39 (19:39) is ready for departure. 
+18:52 Train [47] (RUNNING) from ST.Pancras 18:52 (18:52) to Hauptbahnhof 20:41 (20:41) started on time.
+18:54 Train [30] (RUNNING) from Liege-Guillemins 18:54 (18:54) to Hauptbahnhof 19:44 (19:44) started on time.
+18:56 Train [127] (ASSEMBLED) from Hauptbahnhof 17:16 (19:26) to Luz 17:54 (20:04) could not be assembled. Trying again in 10 minutes. 
+18:58 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (19:28) to ST.Pancras 14:55 (21:05) could not be assembled. Trying again in 10 minutes. 
+19:01 Train [112] (ASSEMBLED) from Shinjuku 19:31 (19:31) to Hauptbahnhof 20:04 (20:04) is now assembled. 
+19:01 Train [128] (ARRIVED) from Hauptbahnhof 18:30 (19:01) speed = 139 km/h arrived on time.
+19:01 Train [63] (RUNNING) from Dunedin 19:01 (19:01) to Hauptbahnhof 19:39 (19:39) started on time.
+19:02 Train [14] (READY) from GrandCentral 19:12 (19:12) to Hauptbahnhof 20:21 (20:21) is ready for departure. 
+19:03 Train [111] (FINISHED) from Shinjuku 18:43 (18:43) speed = 136 km/h has been dissambled.
+19:04 Train [79] (FINISHED) from MilanoCentrale 18:44 (18:44) speed = 127 km/h has been dissambled.
+19:05 Train [80] (READY) from MilanoCentrale 19:15 (19:15) to Hauptbahnhof 20:27 (20:27) is ready for departure. 
+19:06 Train [127] (ASSEMBLED) from Hauptbahnhof 17:16 (19:36) to Luz 17:54 (20:14) could not be assembled. Trying again in 10 minutes. 
+19:07 Train [95] (ARRIVED) from Luz 18:28 (19:07) speed = 136 km/h arrived on time.
+19:08 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (19:38) to ST.Pancras 14:55 (21:15) could not be assembled. Trying again in 10 minutes. 
+19:09 Train [46] (FINISHED) from ST.Pancras 18:49 (18:49) speed = 135 km/h has been dissambled.
+19:12 Train [14] (RUNNING) from GrandCentral 19:12 (19:12) to Hauptbahnhof 20:21 (20:21) started on time.
+19:15 Train [80] (RUNNING) from MilanoCentrale 19:15 (19:15) to Hauptbahnhof 20:27 (20:27) started on time.
+19:16 Train [127] (ASSEMBLED) from Hauptbahnhof 17:16 (19:46) to Luz 17:54 (20:24) could not be assembled. Trying again in 10 minutes. 
+19:16 Train [129] (ASSEMBLED) from Hauptbahnhof 19:46 (19:46) to GrandCentral 20:53 (20:53) is now assembled. 
+19:18 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (19:48) to ST.Pancras 14:55 (21:25) could not be assembled. Trying again in 10 minutes. 
+19:21 Train [128] (FINISHED) from Hauptbahnhof 19:01 (19:01) speed = 139 km/h has been dissambled.
+19:21 Train [112] (READY) from Shinjuku 19:31 (19:31) to Hauptbahnhof 20:04 (20:04) is ready for departure. 
+19:26 Train [127] (ASSEMBLED) from Hauptbahnhof 17:16 (19:56) to Luz 17:54 (20:34) could not be assembled. Trying again in 10 minutes. 
+19:27 Train [95] (FINISHED) from Luz 19:07 (19:07) speed = 136 km/h has been dissambled.
+19:28 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (19:58) to ST.Pancras 14:55 (21:35) could not be assembled. Trying again in 10 minutes. 
+19:31 Train [112] (RUNNING) from Shinjuku 19:31 (19:31) to Hauptbahnhof 20:04 (20:04) started on time.
+19:31 Train [96] (ASSEMBLED) from Luz 20:01 (20:01) to Hauptbahnhof 20:38 (20:38) could not be assembled. Trying again in 10 minutes. 
+19:36 Train [129] (READY) from Hauptbahnhof 19:46 (19:46) to GrandCentral 20:53 (20:53) is ready for departure. 
+19:36 Train [127] (ASSEMBLED) from Hauptbahnhof 17:16 (20:06) to Luz 17:54 (20:44) could not be assembled. Trying again in 10 minutes. 
+19:38 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (20:08) to ST.Pancras 14:55 (21:45) could not be assembled. Trying again in 10 minutes. 
+19:39 Train [63] (ARRIVED) from Dunedin 19:01 (19:39) speed = 127 km/h arrived on time.
+19:40 Train [48] (ASSEMBLED) from ST.Pancras 20:10 (20:10) to GrandCentral 21:25 (21:25) is now assembled. 
+19:41 Train [96] (ASSEMBLED) from Luz 20:01 (20:11) to Hauptbahnhof 20:38 (20:48) could not be assembled. Trying again in 10 minutes. 
+19:43 Train [64] (ASSEMBLED) from Dunedin 20:13 (20:13) to GrandCentral 21:06 (21:06) is now assembled. 
+19:44 Train [30] (ARRIVED) from Liege-Guillemins 18:54 (19:44) speed = 132 km/h arrived on time.
+19:46 Train [129] (RUNNING) from Hauptbahnhof 19:46 (19:46) to GrandCentral 20:53 (20:53) started on time.
+19:46 Train [127] (ASSEMBLED) from Hauptbahnhof 17:16 (20:16) to Luz 17:54 (20:54) could not be assembled. Trying again in 10 minutes. 
+19:48 Train [31] (ASSEMBLED) from Liege-Guillemins 20:18 (20:18) to GrandCentral 21:52 (21:52) is now assembled. 
+19:48 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (20:18) to ST.Pancras 14:55 (21:55) could not be assembled. Trying again in 10 minutes. 
+19:51 Train [96] (ASSEMBLED) from Luz 20:01 (20:21) to Hauptbahnhof 20:38 (20:58) could not be assembled. Trying again in 10 minutes. 
+19:56 Train [127] (ASSEMBLED) from Hauptbahnhof 17:16 (20:26) to Luz 17:54 (21:04) could not be assembled. Trying again in 10 minutes. 
+19:58 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (20:28) to ST.Pancras 14:55 (22:05) could not be assembled. Trying again in 10 minutes. 
+19:59 Train [63] (FINISHED) from Dunedin 19:39 (19:39) speed = 127 km/h has been dissambled.
+20:00 Train [48] (READY) from ST.Pancras 20:10 (20:10) to GrandCentral 21:25 (21:25) is ready for departure. 
+20:01 Train [96] (ASSEMBLED) from Luz 20:01 (20:31) to Hauptbahnhof 20:38 (21:08) could not be assembled. Trying again in 10 minutes. 
+20:03 Train [64] (READY) from Dunedin 20:13 (20:13) to GrandCentral 21:06 (21:06) is ready for departure. 
+20:04 Train [30] (FINISHED) from Liege-Guillemins 19:44 (19:44) speed = 132 km/h has been dissambled.
+20:04 Train [112] (ARRIVED) from Shinjuku 19:31 (20:04) speed = 130 km/h arrived on time.
+20:06 Train [127] (ASSEMBLED) from Hauptbahnhof 17:16 (20:36) to Luz 17:54 (21:14) could not be assembled. Trying again in 10 minutes. 
+20:06 Train [81] (ASSEMBLED) from MilanoCentrale 20:36 (20:36) to GrandCentral 21:02 (21:02) could not be assembled. Trying again in 10 minutes. 
+20:08 Train [31] (READY) from Liege-Guillemins 20:18 (20:18) to GrandCentral 21:52 (21:52) is ready for departure. 
+20:08 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (20:38) to ST.Pancras 14:55 (22:15) could not be assembled. Trying again in 10 minutes. 
+20:10 Train [48] (RUNNING) from ST.Pancras 20:10 (20:10) to GrandCentral 21:25 (21:25) started on time.
+20:11 Train [96] (ASSEMBLED) from Luz 20:01 (20:41) to Hauptbahnhof 20:38 (21:18) could not be assembled. Trying again in 10 minutes. 
+20:13 Train [64] (RUNNING) from Dunedin 20:13 (20:13) to GrandCentral 21:06 (21:06) started on time.
+20:14 Train [15] (ASSEMBLED) from GrandCentral 20:44 (20:44) to Liege-Guillemins 22:14 (22:14) is now assembled. 
+20:16 Train [127] (ASSEMBLED) from Hauptbahnhof 17:16 (20:46) to Luz 17:54 (21:24) could not be assembled. Trying again in 10 minutes. 
+20:16 Train [81] (ASSEMBLED) from MilanoCentrale 20:36 (20:46) to GrandCentral 21:02 (21:12) could not be assembled. Trying again in 10 minutes. 
+20:18 Train [31] (RUNNING) from Liege-Guillemins 20:18 (20:18) to GrandCentral 21:52 (21:52) started on time.
+20:18 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (20:48) to ST.Pancras 14:55 (22:25) could not be assembled. Trying again in 10 minutes. 
+20:20 Train [113] (ASSEMBLED) from Shinjuku 20:50 (20:50) to GrandCentral 21:32 (21:32) is now assembled. 
+20:21 Train [96] (ASSEMBLED) from Luz 20:01 (20:51) to Hauptbahnhof 20:38 (21:28) could not be assembled. Trying again in 10 minutes. 
+20:21 Train [14] (ARRIVED) from GrandCentral 19:12 (20:21) speed = 126 km/h arrived on time.
+20:24 Train [112] (FINISHED) from Shinjuku 20:04 (20:04) speed = 130 km/h has been dissambled.
+20:26 Train [127] (ASSEMBLED) from Hauptbahnhof 17:16 (20:56) to Luz 17:54 (21:34) could not be assembled. Trying again in 10 minutes. 
+20:26 Train [81] (ASSEMBLED) from MilanoCentrale 20:36 (20:56) to GrandCentral 21:02 (21:22) could not be assembled. Trying again in 10 minutes. 
+20:27 Train [80] (ARRIVED) from MilanoCentrale 19:15 (20:27) speed = 131 km/h arrived on time.
+20:28 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (20:58) to ST.Pancras 14:55 (22:35) could not be assembled. Trying again in 10 minutes. 
+20:31 Train [96] (ASSEMBLED) from Luz 20:01 (21:01) to Hauptbahnhof 20:38 (21:38) could not be assembled. Trying again in 10 minutes. 
+20:34 Train [15] (READY) from GrandCentral 20:44 (20:44) to Liege-Guillemins 22:14 (22:14) is ready for departure. 
+20:36 Train [127] (ASSEMBLED) from Hauptbahnhof 17:16 (21:06) to Luz 17:54 (21:44) could not be assembled. Trying again in 10 minutes. 
+20:36 Train [81] (ASSEMBLED) from MilanoCentrale 20:36 (21:06) to GrandCentral 21:02 (21:32) could not be assembled. Trying again in 10 minutes. 
+20:38 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (21:08) to ST.Pancras 14:55 (22:45) could not be assembled. Trying again in 10 minutes. 
+20:40 Train [130] (ASSEMBLED) from Hauptbahnhof 21:10 (21:10) to Liege-Guillemins 22:00 (22:00) is now assembled. 
+20:40 Train [113] (READY) from Shinjuku 20:50 (20:50) to GrandCentral 21:32 (21:32) is ready for departure. 
+20:41 Train [96] (ASSEMBLED) from Luz 20:01 (21:11) to Hauptbahnhof 20:38 (21:48) could not be assembled. Trying again in 10 minutes. 
+20:41 Train [47] (ARRIVED) from ST.Pancras 18:52 (20:41) speed = 123 km/h arrived on time.
+20:41 Train [14] (FINISHED) from GrandCentral 20:21 (20:21) speed = 126 km/h has been dissambled.
+20:44 Train [15] (RUNNING) from GrandCentral 20:44 (20:44) to Liege-Guillemins 22:14 (22:14) started on time.
+20:45 Train [97] (ASSEMBLED) from Luz 21:15 (21:15) to GrandCentral 22:36 (22:36) could not be assembled. Trying again in 10 minutes. 
+20:46 Train [127] (ASSEMBLED) from Hauptbahnhof 17:16 (21:16) to Luz 17:54 (21:54) could not be assembled. Trying again in 10 minutes. 
+20:46 Train [81] (ASSEMBLED) from MilanoCentrale 20:36 (21:16) to GrandCentral 21:02 (21:42) could not be assembled. Trying again in 10 minutes. 
+20:47 Train [80] (FINISHED) from MilanoCentrale 20:27 (20:27) speed = 131 km/h has been dissambled.
+20:48 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (21:18) to ST.Pancras 14:55 (22:55) could not be assembled. Trying again in 10 minutes. 
+20:50 Train [113] (RUNNING) from Shinjuku 20:50 (20:50) to GrandCentral 21:32 (21:32) started on time.
+20:51 Train [96] (ASSEMBLED) from Luz 20:01 (21:21) to Hauptbahnhof 20:38 (21:58) could not be assembled. Trying again in 10 minutes. 
+20:53 Train [129] (ARRIVED) from Hauptbahnhof 19:46 (20:53) speed = 129 km/h arrived on time.
+20:55 Train [97] (ASSEMBLED) from Luz 21:15 (21:25) to GrandCentral 22:36 (22:46) could not be assembled. Trying again in 10 minutes. 
+20:56 Train [127] (ASSEMBLED) from Hauptbahnhof 17:16 (21:26) to Luz 17:54 (22:04) could not be assembled. Trying again in 10 minutes. 
+20:56 Train [81] (ASSEMBLED) from MilanoCentrale 20:36 (21:26) to GrandCentral 21:02 (21:52) could not be assembled. Trying again in 10 minutes. 
+20:58 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (21:28) to ST.Pancras 14:55 (23:05) could not be assembled. Trying again in 10 minutes. 
+21:00 Train [130] (READY) from Hauptbahnhof 21:10 (21:10) to Liege-Guillemins 22:00 (22:00) is ready for departure. 
+21:01 Train [47] (FINISHED) from ST.Pancras 20:41 (20:41) speed = 123 km/h has been dissambled.
+21:01 Train [96] (ASSEMBLED) from Luz 20:01 (21:31) to Hauptbahnhof 20:38 (22:08) could not be assembled. Trying again in 10 minutes. 
+21:05 Train [97] (ASSEMBLED) from Luz 21:15 (21:35) to GrandCentral 22:36 (22:56) could not be assembled. Trying again in 10 minutes. 
+21:05 Train [65] (ASSEMBLED) from Dunedin 21:35 (21:35) to Liege-Guillemins 22:08 (22:08) is now assembled. 
+21:06 Train [81] (ASSEMBLED) from MilanoCentrale 20:36 (21:36) to GrandCentral 21:02 (22:02) could not be assembled. Trying again in 10 minutes. 
+21:06 Train [64] (ARRIVED) from Dunedin 20:13 (21:06) speed = 124 km/h arrived on time.
+21:06 Train [127] (ASSEMBLED) from Hauptbahnhof 17:16 (21:36) to Luz 17:54 (22:14) is now assembled. 
+21:08 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (21:38) to ST.Pancras 14:55 (23:15) could not be assembled. Trying again in 10 minutes. 
+21:10 Train [130] (RUNNING) from Hauptbahnhof 21:10 (21:10) to Liege-Guillemins 22:00 (22:00) started on time.
+21:10 Train [49] (ASSEMBLED) from ST.Pancras 21:40 (21:40) to Liege-Guillemins 22:54 (22:54) is now assembled. 
+21:10 Train [32] (ASSEMBLED) from Liege-Guillemins 21:40 (21:40) to ST.Pancras 22:52 (22:52) could not be assembled. Trying again in 10 minutes. 
+21:11 Train [96] (ASSEMBLED) from Luz 20:01 (21:41) to Hauptbahnhof 20:38 (22:18) could not be assembled. Trying again in 10 minutes. 
+21:13 Train [129] (FINISHED) from Hauptbahnhof 20:53 (20:53) speed = 129 km/h has been dissambled.
+21:15 Train [97] (ASSEMBLED) from Luz 21:15 (21:45) to GrandCentral 22:36 (23:06) could not be assembled. Trying again in 10 minutes. 
+21:16 Train [81] (ASSEMBLED) from MilanoCentrale 20:36 (21:46) to GrandCentral 21:02 (22:12) could not be assembled. Trying again in 10 minutes. 
+21:18 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (21:48) to ST.Pancras 14:55 (23:25) could not be assembled. Trying again in 10 minutes. 
+21:20 Train [32] (ASSEMBLED) from Liege-Guillemins 21:40 (21:50) to ST.Pancras 22:52 (23:02) could not be assembled. Trying again in 10 minutes. 
+21:21 Train [96] (ASSEMBLED) from Luz 20:01 (21:51) to Hauptbahnhof 20:38 (22:28) could not be assembled. Trying again in 10 minutes. 
+21:22 Train [82] (ASSEMBLED) from MilanoCentrale 21:52 (21:52) to Liege-Guillemins 23:07 (23:07) could not be assembled. Trying again in 10 minutes. 
+21:25 Train [97] (ASSEMBLED) from Luz 21:15 (21:55) to GrandCentral 22:36 (23:16) could not be assembled. Trying again in 10 minutes. 
+21:25 Train [65] (READY) from Dunedin 21:35 (21:35) to Liege-Guillemins 22:08 (22:08) is ready for departure. 
+21:25 Train [48] (ARRIVED) from ST.Pancras 20:10 (21:25) speed = 136 km/h arrived on time.
+21:26 Train [64] (FINISHED) from Dunedin 21:06 (21:06) speed = 124 km/h has been dissambled.
+21:26 Train [81] (ASSEMBLED) from MilanoCentrale 20:36 (21:56) to GrandCentral 21:02 (22:22) could not be assembled. Trying again in 10 minutes. 
+21:26 Train [127] (READY) from Hauptbahnhof 17:16 (21:36) to Luz 17:54 (22:14) is ready for departure. 
+21:28 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (21:58) to ST.Pancras 14:55 (23:35) could not be assembled. Trying again in 10 minutes. 
+21:30 Train [49] (READY) from ST.Pancras 21:40 (21:40) to Liege-Guillemins 22:54 (22:54) is ready for departure. 
+21:30 Train [32] (ASSEMBLED) from Liege-Guillemins 21:40 (22:00) to ST.Pancras 22:52 (23:12) could not be assembled. Trying again in 10 minutes. 
+21:31 Train [96] (ASSEMBLED) from Luz 20:01 (22:01) to Hauptbahnhof 20:38 (22:38) could not be assembled. Trying again in 10 minutes. 
+21:32 Train [113] (ARRIVED) from Shinjuku 20:50 (21:32) speed = 128 km/h arrived on time.
+21:32 Train [82] (ASSEMBLED) from MilanoCentrale 21:52 (22:02) to Liege-Guillemins 23:07 (23:17) could not be assembled. Trying again in 10 minutes. 
+21:32 Train [114] (ASSEMBLED) from Shinjuku 22:02 (22:02) to Liege-Guillemins 22:51 (22:51) is now assembled. 
+21:35 Train [65] (RUNNING) from Dunedin 21:35 (21:35) to Liege-Guillemins 22:08 (22:08) started on time.
+21:35 Train [97] (ASSEMBLED) from Luz 21:15 (22:05) to GrandCentral 22:36 (23:26) could not be assembled. Trying again in 10 minutes. 
+21:36 Train [127] (RUNNING) from Hauptbahnhof 17:16 (21:36) to Luz 17:54 (22:14) started. Is 04:20 minutes late.
+21:36 Train [81] (ASSEMBLED) from MilanoCentrale 20:36 (22:06) to GrandCentral 21:02 (22:32) could not be assembled. Trying again in 10 minutes. 
+21:38 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (22:08) to ST.Pancras 14:55 (23:45) could not be assembled. Trying again in 10 minutes. 
+21:40 Train [32] (ASSEMBLED) from Liege-Guillemins 21:40 (22:10) to ST.Pancras 22:52 (23:22) could not be assembled. Trying again in 10 minutes. 
+21:40 Train [49] (RUNNING) from ST.Pancras 21:40 (21:40) to Liege-Guillemins 22:54 (22:54) started on time.
+21:41 Train [96] (ASSEMBLED) from Luz 20:01 (22:11) to Hauptbahnhof 20:38 (22:48) could not be assembled. Trying again in 10 minutes. 
+21:42 Train [82] (ASSEMBLED) from MilanoCentrale 21:52 (22:12) to Liege-Guillemins 23:07 (23:27) could not be assembled. Trying again in 10 minutes. 
+21:45 Train [97] (ASSEMBLED) from Luz 21:15 (22:15) to GrandCentral 22:36 (23:36) could not be assembled. Trying again in 10 minutes. 
+21:45 Train [48] (FINISHED) from ST.Pancras 21:25 (21:25) speed = 136 km/h has been dissambled.
+21:46 Train [81] (ASSEMBLED) from MilanoCentrale 20:36 (22:16) to GrandCentral 21:02 (22:42) could not be assembled. Trying again in 10 minutes. 
+21:47 Train [16] (ASSEMBLED) from GrandCentral 22:17 (22:17) to ST.Pancras 23:35 (23:35) is now assembled. 
+21:48 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (22:18) to ST.Pancras 14:55 (23:55) could not be assembled. Trying again in 10 minutes. 
+21:50 Train [32] (ASSEMBLED) from Liege-Guillemins 21:40 (22:20) to ST.Pancras 22:52 (23:32) could not be assembled. Trying again in 10 minutes. 
+21:51 Train [96] (ASSEMBLED) from Luz 20:01 (22:21) to Hauptbahnhof 20:38 (22:58) could not be assembled. Trying again in 10 minutes. 
+21:52 Train [113] (FINISHED) from Shinjuku 21:32 (21:32) speed = 128 km/h has been dissambled.
+21:52 Train [82] (ASSEMBLED) from MilanoCentrale 21:52 (22:22) to Liege-Guillemins 23:07 (23:37) could not be assembled. Trying again in 10 minutes. 
+21:52 Train [31] (ARRIVED) from Liege-Guillemins 20:18 (21:52) speed = 121 km/h arrived on time.
+21:52 Train [114] (READY) from Shinjuku 22:02 (22:02) to Liege-Guillemins 22:51 (22:51) is ready for departure. 
+21:55 Train [97] (ASSEMBLED) from Luz 21:15 (22:25) to GrandCentral 22:36 (23:46) could not be assembled. Trying again in 10 minutes. 
+21:56 Train [81] (ASSEMBLED) from MilanoCentrale 20:36 (22:26) to GrandCentral 21:02 (22:52) could not be assembled. Trying again in 10 minutes. 
+21:58 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (22:28) to ST.Pancras 14:55 (00:05) could not be assembled. Trying again in 10 minutes. 
+22:00 Train [32] (ASSEMBLED) from Liege-Guillemins 21:40 (22:30) to ST.Pancras 22:52 (23:42) could not be assembled. Trying again in 10 minutes. 
+22:00 Train [130] (ARRIVED) from Hauptbahnhof 21:10 (22:00) speed = 132 km/h arrived on time.
+22:01 Train [96] (ASSEMBLED) from Luz 20:01 (22:31) to Hauptbahnhof 20:38 (23:08) could not be assembled. Trying again in 10 minutes. 
+22:02 Train [127] (ARRIVED) from Hauptbahnhof 17:16 (22:02) average speed = 186 km/h arrived and was 04:08 minutes late.
+22:02 Train [82] (ASSEMBLED) from MilanoCentrale 21:52 (22:32) to Liege-Guillemins 23:07 (23:47) could not be assembled. Trying again in 10 minutes. 
+22:02 Train [114] (RUNNING) from Shinjuku 22:02 (22:02) to Liege-Guillemins 22:51 (22:51) started on time.
+22:05 Train [97] (ASSEMBLED) from Luz 21:15 (22:35) to GrandCentral 22:36 (23:56) could not be assembled. Trying again in 10 minutes. 
+22:06 Train [81] (ASSEMBLED) from MilanoCentrale 20:36 (22:36) to GrandCentral 21:02 (23:02) could not be assembled. Trying again in 10 minutes. 
+22:07 Train [16] (READY) from GrandCentral 22:17 (22:17) to ST.Pancras 23:35 (23:35) is ready for departure. 
+22:08 Train [65] (ARRIVED) from Dunedin 21:35 (22:08) speed = 136 km/h arrived on time.
+22:08 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (22:38) to ST.Pancras 14:55 (00:15) could not be assembled. Trying again in 10 minutes. 
+22:09 Train [98] (ASSEMBLED) from Luz 22:39 (22:39) to Liege-Guillemins 22:53 (22:53) is now assembled. 
+22:10 Train [32] (ASSEMBLED) from Liege-Guillemins 21:40 (22:40) to ST.Pancras 22:52 (23:52) could not be assembled. Trying again in 10 minutes. 
+22:11 Train [96] (ASSEMBLED) from Luz 20:01 (22:41) to Hauptbahnhof 20:38 (23:18) could not be assembled. Trying again in 10 minutes. 
+22:12 Train [31] (FINISHED) from Liege-Guillemins 21:52 (21:52) speed = 121 km/h has been dissambled.
+22:12 Train [82] (ASSEMBLED) from MilanoCentrale 21:52 (22:42) to Liege-Guillemins 23:07 (23:57) could not be assembled. Trying again in 10 minutes. 
+22:14 Train [15] (ARRIVED) from GrandCentral 20:44 (22:14) speed = 126 km/h arrived on time.
+22:15 Train [97] (ASSEMBLED) from Luz 21:15 (22:45) to GrandCentral 22:36 (00:06) could not be assembled. Trying again in 10 minutes. 
+22:16 Train [81] (ASSEMBLED) from MilanoCentrale 20:36 (22:46) to GrandCentral 21:02 (23:12) could not be assembled. Trying again in 10 minutes. 
+22:17 Train [16] (RUNNING) from GrandCentral 22:17 (22:17) to ST.Pancras 23:35 (23:35) started on time.
+22:18 Train [66] (ASSEMBLED) from Dunedin 22:48 (22:48) to ST.Pancras 23:52 (23:52) is now assembled. 
+22:18 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (22:48) to ST.Pancras 14:55 (00:25) could not be assembled. Trying again in 10 minutes. 
+22:20 Train [32] (ASSEMBLED) from Liege-Guillemins 21:40 (22:50) to ST.Pancras 22:52 (00:02) could not be assembled. Trying again in 10 minutes. 
+22:20 Train [130] (FINISHED) from Hauptbahnhof 22:00 (22:00) speed = 132 km/h has been dissambled.
+22:21 Train [96] (ASSEMBLED) from Luz 20:01 (22:51) to Hauptbahnhof 20:38 (23:28) could not be assembled. Trying again in 10 minutes. 
+22:22 Train [33] (ASSEMBLED) from Liege-Guillemins 22:52 (22:52) to Dunedin 23:26 (23:26) is now assembled. 
+22:22 Train [127] (FINISHED) from Hauptbahnhof 17:54 (22:02) speed = 186 km/h has been dissambled.
+22:22 Train [82] (ASSEMBLED) from MilanoCentrale 21:52 (22:52) to Liege-Guillemins 23:07 (00:07) could not be assembled. Trying again in 10 minutes. 
+22:25 Train [97] (ASSEMBLED) from Luz 21:15 (22:55) to GrandCentral 22:36 (00:16) could not be assembled. Trying again in 10 minutes. 
+22:26 Train [81] (ASSEMBLED) from MilanoCentrale 20:36 (22:56) to GrandCentral 21:02 (23:22) could not be assembled. Trying again in 10 minutes. 
+22:28 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (22:58) to ST.Pancras 14:55 (00:35) could not be assembled. Trying again in 10 minutes. 
+22:28 Train [65] (FINISHED) from Dunedin 22:08 (22:08) speed = 136 km/h has been dissambled.
+22:29 Train [98] (READY) from Luz 22:39 (22:39) to Liege-Guillemins 22:53 (22:53) is ready for departure. 
+22:30 Train [32] (ASSEMBLED) from Liege-Guillemins 21:40 (23:00) to ST.Pancras 22:52 (00:12) could not be assembled. Trying again in 10 minutes. 
+22:31 Train [96] (ASSEMBLED) from Luz 20:01 (23:01) to Hauptbahnhof 20:38 (23:38) could not be assembled. Trying again in 10 minutes. 
+22:32 Train [82] (ASSEMBLED) from MilanoCentrale 21:52 (23:02) to Liege-Guillemins 23:07 (00:17) could not be assembled. Trying again in 10 minutes. 
+22:34 Train [15] (FINISHED) from GrandCentral 22:14 (22:14) speed = 126 km/h has been dissambled.
+22:35 Train [97] (ASSEMBLED) from Luz 21:15 (23:05) to GrandCentral 22:36 (00:26) could not be assembled. Trying again in 10 minutes. 
+22:36 Train [81] (ASSEMBLED) from MilanoCentrale 20:36 (23:06) to GrandCentral 21:02 (23:32) could not be assembled. Trying again in 10 minutes. 
+22:38 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (23:08) to ST.Pancras 14:55 (00:45) could not be assembled. Trying again in 10 minutes. 
+22:38 Train [66] (READY) from Dunedin 22:48 (22:48) to ST.Pancras 23:52 (23:52) is ready for departure. 
+22:39 Train [98] (RUNNING) from Luz 22:39 (22:39) to Liege-Guillemins 22:53 (22:53) started on time.
+22:40 Train [32] (ASSEMBLED) from Liege-Guillemins 21:40 (23:10) to ST.Pancras 22:52 (00:22) could not be assembled. Trying again in 10 minutes. 
+22:41 Train [96] (ASSEMBLED) from Luz 20:01 (23:11) to Hauptbahnhof 20:38 (23:48) could not be assembled. Trying again in 10 minutes. 
+22:42 Train [82] (ASSEMBLED) from MilanoCentrale 21:52 (23:12) to Liege-Guillemins 23:07 (00:27) could not be assembled. Trying again in 10 minutes. 
+22:42 Train [33] (READY) from Liege-Guillemins 22:52 (22:52) to Dunedin 23:26 (23:26) is ready for departure. 
+22:45 Train [97] (ASSEMBLED) from Luz 21:15 (23:15) to GrandCentral 22:36 (00:36) could not be assembled. Trying again in 10 minutes. 
+22:46 Train [81] (ASSEMBLED) from MilanoCentrale 20:36 (23:16) to GrandCentral 21:02 (23:42) could not be assembled. Trying again in 10 minutes. 
+22:48 Train [66] (RUNNING) from Dunedin 22:48 (22:48) to ST.Pancras 23:52 (23:52) started on time.
+22:48 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (23:18) to ST.Pancras 14:55 (00:55) could not be assembled. Trying again in 10 minutes. 
+22:50 Train [32] (ASSEMBLED) from Liege-Guillemins 21:40 (23:20) to ST.Pancras 22:52 (00:32) could not be assembled. Trying again in 10 minutes. 
+22:51 Train [114] (ARRIVED) from Shinjuku 22:02 (22:51) speed = 131 km/h arrived on time.
+22:51 Train [96] (ASSEMBLED) from Luz 20:01 (23:21) to Hauptbahnhof 20:38 (23:58) could not be assembled. Trying again in 10 minutes. 
+22:52 Train [82] (ASSEMBLED) from MilanoCentrale 21:52 (23:22) to Liege-Guillemins 23:07 (00:37) could not be assembled. Trying again in 10 minutes. 
+22:52 Train [33] (RUNNING) from Liege-Guillemins 22:52 (22:52) to Dunedin 23:26 (23:26) started on time.
+22:53 Train [98] (ARRIVED) from Luz 22:39 (22:53) speed = 128 km/h arrived on time.
+22:54 Train [49] (ARRIVED) from ST.Pancras 21:40 (22:54) speed = 131 km/h arrived on time.
+22:55 Train [97] (ASSEMBLED) from Luz 21:15 (23:25) to GrandCentral 22:36 (00:46) could not be assembled. Trying again in 10 minutes. 
+22:56 Train [81] (ASSEMBLED) from MilanoCentrale 20:36 (23:26) to GrandCentral 21:02 (23:52) could not be assembled. Trying again in 10 minutes. 
+22:58 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (23:28) to ST.Pancras 14:55 (01:05) could not be assembled. Trying again in 10 minutes. 
+23:00 Train [32] (ASSEMBLED) from Liege-Guillemins 21:40 (23:30) to ST.Pancras 22:52 (00:42) could not be assembled. Trying again in 10 minutes. 
+23:01 Train [96] (ASSEMBLED) from Luz 20:01 (23:31) to Hauptbahnhof 20:38 (00:08) could not be assembled. Trying again in 10 minutes. 
+23:02 Train [82] (ASSEMBLED) from MilanoCentrale 21:52 (23:32) to Liege-Guillemins 23:07 (00:47) could not be assembled. Trying again in 10 minutes. 
+23:05 Train [97] (ASSEMBLED) from Luz 21:15 (23:35) to GrandCentral 22:36 (00:56) could not be assembled. Trying again in 10 minutes. 
+23:06 Train [81] (ASSEMBLED) from MilanoCentrale 20:36 (23:36) to GrandCentral 21:02 (00:02) could not be assembled. Trying again in 10 minutes. 
+23:08 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (23:38) to ST.Pancras 14:55 (01:15) could not be assembled. Trying again in 10 minutes. 
+23:10 Train [32] (ASSEMBLED) from Liege-Guillemins 21:40 (23:40) to ST.Pancras 22:52 (00:52) could not be assembled. Trying again in 10 minutes. 
+23:11 Train [96] (ASSEMBLED) from Luz 20:01 (23:41) to Hauptbahnhof 20:38 (00:18) could not be assembled. Trying again in 10 minutes. 
+23:11 Train [114] (FINISHED) from Shinjuku 22:51 (22:51) speed = 131 km/h has been dissambled.
+23:12 Train [82] (ASSEMBLED) from MilanoCentrale 21:52 (23:42) to Liege-Guillemins 23:07 (00:57) could not be assembled. Trying again in 10 minutes. 
+23:13 Train [98] (FINISHED) from Luz 22:53 (22:53) speed = 128 km/h has been dissambled.
+23:14 Train [49] (FINISHED) from ST.Pancras 22:54 (22:54) speed = 131 km/h has been dissambled.
+23:15 Train [97] (ASSEMBLED) from Luz 21:15 (23:45) to GrandCentral 22:36 (01:06) could not be assembled. Trying again in 10 minutes. 
+23:16 Train [81] (ASSEMBLED) from MilanoCentrale 20:36 (23:46) to GrandCentral 21:02 (00:12) could not be assembled. Trying again in 10 minutes. 
+23:18 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (23:48) to ST.Pancras 14:55 (01:25) could not be assembled. Trying again in 10 minutes. 
+23:20 Train [32] (ASSEMBLED) from Liege-Guillemins 21:40 (23:50) to ST.Pancras 22:52 (01:02) is now assembled. 
+23:21 Train [96] (ASSEMBLED) from Luz 20:01 (23:51) to Hauptbahnhof 20:38 (00:28) could not be assembled. Trying again in 10 minutes. 
+23:22 Train [82] (ASSEMBLED) from MilanoCentrale 21:52 (23:52) to Liege-Guillemins 23:07 (01:07) could not be assembled. Trying again in 10 minutes. 
+23:25 Train [97] (ASSEMBLED) from Luz 21:15 (23:55) to GrandCentral 22:36 (01:16) could not be assembled. Trying again in 10 minutes. 
+23:26 Train [81] (ASSEMBLED) from MilanoCentrale 20:36 (23:56) to GrandCentral 21:02 (00:22) could not be assembled. Trying again in 10 minutes. 
+23:26 Train [33] (ARRIVED) from Liege-Guillemins 22:52 (23:26) speed = 132 km/h arrived on time.
+23:28 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (23:58) to ST.Pancras 14:55 (01:35) could not be assembled. Trying again in 10 minutes. 
+23:31 Train [96] (ASSEMBLED) from Luz 20:01 (00:01) to Hauptbahnhof 20:38 (00:38) could not be assembled. Trying again in 10 minutes. 
+23:32 Train [82] (ASSEMBLED) from MilanoCentrale 21:52 (00:02) to Liege-Guillemins 23:07 (01:17) could not be assembled. Trying again in 10 minutes. 
+23:35 Train [16] (ARRIVED) from GrandCentral 22:17 (23:35) speed = 130 km/h arrived on time.
+23:35 Train [97] (ASSEMBLED) from Luz 21:15 (00:05) to GrandCentral 22:36 (01:26) could not be assembled. Trying again in 10 minutes. 
+23:36 Train [81] (ASSEMBLED) from MilanoCentrale 20:36 (00:06) to GrandCentral 21:02 (00:32) could not be assembled. Trying again in 10 minutes. 
+23:38 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (00:08) to ST.Pancras 14:55 (01:45) could not be assembled. Trying again in 10 minutes. 
+23:40 Train [32] (READY) from Liege-Guillemins 21:40 (23:50) to ST.Pancras 22:52 (01:02) is ready for departure. 
+23:41 Train [96] (ASSEMBLED) from Luz 20:01 (00:11) to Hauptbahnhof 20:38 (00:48) could not be assembled. Trying again in 10 minutes. 
+23:42 Train [82] (ASSEMBLED) from MilanoCentrale 21:52 (00:12) to Liege-Guillemins 23:07 (01:27) could not be assembled. Trying again in 10 minutes. 
+23:45 Train [97] (ASSEMBLED) from Luz 21:15 (00:15) to GrandCentral 22:36 (01:36) could not be assembled. Trying again in 10 minutes. 
+23:46 Train [81] (ASSEMBLED) from MilanoCentrale 20:36 (00:16) to GrandCentral 21:02 (00:42) could not be assembled. Trying again in 10 minutes. 
+23:46 Train [33] (FINISHED) from Liege-Guillemins 23:26 (23:26) speed = 132 km/h has been dissambled.
+23:48 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (00:18) to ST.Pancras 14:55 (01:55) could not be assembled. Trying again in 10 minutes. 
+23:50 Train [32] (RUNNING) from Liege-Guillemins 21:40 (23:50) to ST.Pancras 22:52 (01:02) started. Is 02:10 minutes late.
+23:51 Train [96] (ASSEMBLED) from Luz 20:01 (00:21) to Hauptbahnhof 20:38 (00:58) could not be assembled. Trying again in 10 minutes. 
+23:52 Train [66] (ARRIVED) from Dunedin 22:48 (23:52) speed = 135 km/h arrived on time.
+23:52 Train [82] (ASSEMBLED) from MilanoCentrale 21:52 (00:22) to Liege-Guillemins 23:07 (01:37) could not be assembled. Trying again in 10 minutes. 
+23:55 Train [97] (ASSEMBLED) from Luz 21:15 (00:25) to GrandCentral 22:36 (01:46) could not be assembled. Trying again in 10 minutes. 
+23:55 Train [16] (FINISHED) from GrandCentral 23:35 (23:35) speed = 130 km/h has been dissambled.
+23:56 Train [81] (ASSEMBLED) from MilanoCentrale 20:36 (00:26) to GrandCentral 21:02 (00:52) could not be assembled. Trying again in 10 minutes. 
+23:58 Train [124] (ASSEMBLED) from Hauptbahnhof 13:18 (00:28) to ST.Pancras 14:55 (02:05) could not be assembled. Trying again in 10 minutes. 
+00:12 Train [66] (FINISHED) from Dunedin 23:52 (23:52) speed = 135 km/h has been dissambled.
+00:38 Train [32] (ARRIVED) from Liege-Guillemins 21:40 (00:38) average speed = 202 km/h arrived and was 01:46 minutes late.
+00:58 Train [32] (FINISHED) from Liege-Guillemins 22:52 (00:38) speed = 202 km/h has been dissambled.
